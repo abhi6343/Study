@@ -1,0 +1,14 @@
+D:\Study\Design Pattern\Algomaster.io\LLD\BenchmarkSuite1\bin\Release\net10.0\BenchmarkSuite1-DefaultJob-1\bin\Release\net10.0\ChatApplication.exe
+D:\Study\Design Pattern\Algomaster.io\LLD\BenchmarkSuite1\bin\Release\net10.0\BenchmarkSuite1-DefaultJob-1\bin\Release\net10.0\ChatApplication.deps.json
+D:\Study\Design Pattern\Algomaster.io\LLD\BenchmarkSuite1\bin\Release\net10.0\BenchmarkSuite1-DefaultJob-1\bin\Release\net10.0\ChatApplication.runtimeconfig.json
+D:\Study\Design Pattern\Algomaster.io\LLD\BenchmarkSuite1\bin\Release\net10.0\BenchmarkSuite1-DefaultJob-1\bin\Release\net10.0\ChatApplication.dll
+D:\Study\Design Pattern\Algomaster.io\LLD\BenchmarkSuite1\bin\Release\net10.0\BenchmarkSuite1-DefaultJob-1\bin\Release\net10.0\ChatApplication.pdb
+D:\Study\Design Pattern\Algomaster.io\LLD\BenchmarkSuite1\bin\Release\net10.0\BenchmarkSuite1-DefaultJob-1\obj\ChatApplication\release\ChatApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\Design Pattern\Algomaster.io\LLD\BenchmarkSuite1\bin\Release\net10.0\BenchmarkSuite1-DefaultJob-1\obj\ChatApplication\release\ChatApplication.AssemblyInfoInputs.cache
+D:\Study\Design Pattern\Algomaster.io\LLD\BenchmarkSuite1\bin\Release\net10.0\BenchmarkSuite1-DefaultJob-1\obj\ChatApplication\release\ChatApplication.AssemblyInfo.cs
+D:\Study\Design Pattern\Algomaster.io\LLD\BenchmarkSuite1\bin\Release\net10.0\BenchmarkSuite1-DefaultJob-1\obj\ChatApplication\release\ChatApplication.csproj.CoreCompileInputs.cache
+D:\Study\Design Pattern\Algomaster.io\LLD\BenchmarkSuite1\bin\Release\net10.0\BenchmarkSuite1-DefaultJob-1\obj\ChatApplication\release\ChatApplication.dll
+D:\Study\Design Pattern\Algomaster.io\LLD\BenchmarkSuite1\bin\Release\net10.0\BenchmarkSuite1-DefaultJob-1\obj\ChatApplication\release\refint\ChatApplication.dll
+D:\Study\Design Pattern\Algomaster.io\LLD\BenchmarkSuite1\bin\Release\net10.0\BenchmarkSuite1-DefaultJob-1\obj\ChatApplication\release\ChatApplication.pdb
+D:\Study\Design Pattern\Algomaster.io\LLD\BenchmarkSuite1\bin\Release\net10.0\BenchmarkSuite1-DefaultJob-1\obj\ChatApplication\release\ChatApplication.genruntimeconfig.cache
+D:\Study\Design Pattern\Algomaster.io\LLD\BenchmarkSuite1\bin\Release\net10.0\BenchmarkSuite1-DefaultJob-1\obj\ChatApplication\release\ref\ChatApplication.dll

@@ -1,0 +1,14 @@
+E:\C#\LINQ\LINQ Code Examples\AggregateMethod\bin\Debug\net8.0\AggregateMethod.exe
+E:\C#\LINQ\LINQ Code Examples\AggregateMethod\bin\Debug\net8.0\AggregateMethod.deps.json
+E:\C#\LINQ\LINQ Code Examples\AggregateMethod\bin\Debug\net8.0\AggregateMethod.runtimeconfig.json
+E:\C#\LINQ\LINQ Code Examples\AggregateMethod\bin\Debug\net8.0\AggregateMethod.dll
+E:\C#\LINQ\LINQ Code Examples\AggregateMethod\bin\Debug\net8.0\AggregateMethod.pdb
+E:\C#\LINQ\LINQ Code Examples\AggregateMethod\obj\Debug\net8.0\AggregateMethod.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\LINQ\LINQ Code Examples\AggregateMethod\obj\Debug\net8.0\AggregateMethod.AssemblyInfoInputs.cache
+E:\C#\LINQ\LINQ Code Examples\AggregateMethod\obj\Debug\net8.0\AggregateMethod.AssemblyInfo.cs
+E:\C#\LINQ\LINQ Code Examples\AggregateMethod\obj\Debug\net8.0\AggregateMethod.csproj.CoreCompileInputs.cache
+E:\C#\LINQ\LINQ Code Examples\AggregateMethod\obj\Debug\net8.0\AggregateMethod.dll
+E:\C#\LINQ\LINQ Code Examples\AggregateMethod\obj\Debug\net8.0\refint\AggregateMethod.dll
+E:\C#\LINQ\LINQ Code Examples\AggregateMethod\obj\Debug\net8.0\AggregateMethod.pdb
+E:\C#\LINQ\LINQ Code Examples\AggregateMethod\obj\Debug\net8.0\AggregateMethod.genruntimeconfig.cache
+E:\C#\LINQ\LINQ Code Examples\AggregateMethod\obj\Debug\net8.0\ref\AggregateMethod.dll

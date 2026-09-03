@@ -1,0 +1,3 @@
+wwwroot\Abhishek 2023.jpg
+wwwroot\sample.txt
+D:\Study\ASP.NET Core\WebApplication1\ServeStaticFiles\wwwroot\sample.txt

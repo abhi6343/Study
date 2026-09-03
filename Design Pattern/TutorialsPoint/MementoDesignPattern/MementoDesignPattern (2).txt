@@ -1,0 +1,20 @@
+﻿Introduction
+1.	Memento pattern is used to restore state of an object to a previous state.
+	Memento pattern falls under behavioral pattern category.
+
+
+
+Implementation
+1.	Memento pattern uses three actor classes. Memento contains state of an object
+	to be restored. Originator creates and stores states in Memento objects and
+	Caretaker object is responsible to restore object state from Memento. We have
+	to create Memento, Originator, and CareTaker classes. Program, our demo class, 
+	will use CareTaker and Originator objects to show restoration of object states.
+
+
+Required Steps for Implementation
+Step 1: Create Memento class: Memento.cs
+Step 2: Create Originator class: Originator.cs
+Step 3: Create CareTaker class: CareTaker.cs
+Step 4: Use CareTaker and Originator objects: Program.cs
+Step 5: Verify the output.

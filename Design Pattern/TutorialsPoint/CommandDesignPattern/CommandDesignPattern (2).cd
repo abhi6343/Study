@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CommandDesignPattern.Broker" Collapsed="true">
+    <Position X="1.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAQCA=</HashCode>
+      <FileName>Broker.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CommandDesignPattern.BuyStock" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="2.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAAAAAAEAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BuyStock.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="CommandDesignPattern.SellStock" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="0.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAAAAAAEAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SellStock.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="CommandDesignPattern.Stock" Collapsed="true">
+    <Position X="1.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAABAAAAAAAAAAAAAAAAEAACAAAAAAAAAAAA=</HashCode>
+      <FileName>Stock.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="CommandDesignPattern.IOrder" Collapsed="true">
+    <Position X="1.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IOrder.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

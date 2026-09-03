@@ -1,0 +1,46 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewBag.Title = "Home";
+}
+
+<h1>Home</h1>
+<button class="button button-blue-back" id="load-friends-button">Load Friends</button>
+<div id="list">
+
+</div>
+<script src="~/friends.js"/>
+@* @{
+    PersonGridModel personGridModel = new()
+    {
+        GridTitle = "Persons",
+        Persons =
+        [
+            new() {Name = "John", JobTitle = "Manager" },
+            new() {Name = "Jones", JobTitle = "Asst. Manager" },
+            new() {Name = "William", JobTitle = "Clerk" }
+        ]
+    };
+}
+@await Component.InvokeAsync("Grid", new
+{
+    grid = personGridModel
+})
+
+@{
+    PersonGridModel personGridModel_ = new()
+    {
+        GridTitle = "Persons",
+        Persons =
+        [
+            new() {Name = "Mia", JobTitle = "Developer" },
+            new() {Name = "Emma", JobTitle = "UI Designer" },
+            new() {Name = "Avva", JobTitle = "QA" }
+        ]
+    };
+}
+@await Component.InvokeAsync("Grid", new
+{
+    grid = personGridModel_
+}) *@

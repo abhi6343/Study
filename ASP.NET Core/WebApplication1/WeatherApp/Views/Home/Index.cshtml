@@ -1,0 +1,91 @@
+﻿@* @model IList<CityWeather> *@
+@* <!DOCTYPE html>
+<html lang="en-us">
+<head>
+	<meta charset="utf-8" />
+	<title>Weather App</title>
+	<link href="~/StyleSheet.css" rel="stylesheet" />
+</head>
+<body> *@
+@* <h1>Weather</h1> *@
+
+<div class="weather-container">
+
+	<!-- London -->
+	<div class="weather-card blue-back">
+
+		<div class="weather-info">
+			<div class="city-name">
+				@ViewBag.Cities[0].CityName
+			</div>
+
+			<div class="date-time">
+				@ViewBag.Cities[0].DateAndTime?.ToString("hh:mm tt")
+			</div>
+
+			<a href="~/weather/@ViewBag.Cities[0].CityName">Details</a>
+		</div>
+
+		<div class="separator"></div>
+
+		<div class="temperature">
+			<span>@ViewBag.Cities[0].TemperatureFahrenheit</span>
+			<span class="degree">°F</span>
+		</div>
+
+	</div>
+
+
+	<!-- New York -->
+	<div class="weather-card green-back">
+
+		<div class="weather-info">
+			<div class="city-name">
+				@ViewBag.Cities[1].CityName
+			</div>
+
+			<div class="date-time">
+				@ViewBag.Cities[1].DateAndTime?.ToString("hh:mm tt")
+			</div>
+
+			<a href="~/weather/@ViewBag.Cities[1].CityName">Details</a>
+		</div>
+
+		<div class="separator"></div>
+
+		<div class="temperature">
+			<span>@ViewBag.Cities[1].TemperatureFahrenheit</span>
+			<span class="degree">°F</span>
+		</div>
+
+	</div>
+
+
+	<!-- Paris -->
+	<div class="weather-card orange-back">
+
+		<div class="weather-info">
+			<div class="city-name">
+				@ViewBag.Cities[2].CityName
+			</div>
+
+			<div class="date-time">
+				@ViewBag.Cities[2].DateAndTime?.ToString("hh:mm tt")
+			</div>
+
+			<a href="~/weather/@ViewBag.Cities[2].CityName">Details</a>
+		</div>
+
+		<div class="separator"></div>
+
+		<div class="temperature">
+			<span>@ViewBag.Cities[2].TemperatureFahrenheit</span>
+			<span class="degree">°F</span>
+		</div>
+
+	</div>
+
+</div>
+
+@* </body>
+</html> *@

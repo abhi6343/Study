@@ -1,0 +1,26 @@
+﻿Introduction
+1.	In Visitor pattern, we use a visitor class which changes the executing algorithm of
+	an element class. By this way, execution algorithm of element can vary as and when
+	visitor varies. This pattern comes under behavior pattern category. As per the pattern,
+	element object has to accept the visitor object so that visitor object handles the 
+	operation on the element object.
+
+
+Implementation
+1.	We are going to create an IComputerPart interface defining accept operation. Keyboard,
+	Mouse, Monitor and Computer are concrete classes implementing IComputerPart interface.
+	We will define another interface IComputerPartVisitor which will define a visitor class
+	operations. Computer uses concrete visitor to do corresponding action.
+
+2.	Program, our demo class, will use Computer and ComputerPartVisitor classes to demonstrate
+	use of visitor pattern.
+
+
+Required Steps for Implementation
+Step 1: Define an interface to represent element: IComputerPart.cs
+Step 2: Create concrete classes extending the above class: Keyboard.cs,Monitor.cs, Mouse.cs,
+		Computer.cs
+Step 3: Define an interface to represent visitor: IComputerPartVisitor.cs
+Step 4: Create concrete visitor implementing the above class: ComputerPartDisplayVisitor.cs
+Step 5: Use the ComputerPartDisplayVisitor to display parts of Computer: Program.cs
+Step 6: Verify the output.

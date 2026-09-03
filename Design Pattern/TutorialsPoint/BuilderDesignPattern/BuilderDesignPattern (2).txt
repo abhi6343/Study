@@ -1,0 +1,31 @@
+﻿Introduction
+1.	Builder pattern builds a complex object using simple objects and using a step by step approach.
+	This type of design pattern comes under creational pattern as this pattern provides one of the best
+	ways to create an object.
+
+2.	A Builder class builds the final object step by step. This builder is independent of other objects.
+
+
+
+Implementation
+1.	We have considered a business case of fast-food restaurant where a typical meal could be a burger
+	and a cold drink. Burger could be either a Veg Burger or Chicken Burger and will be packed by a wrapper.
+	Cold drink should be either a coke or pepsi and will be packed in a bottle.
+2.	We are going to create an item interface representing food items such as burgers and cold drinks
+	and concrete classes implementing the Item interface and a Packing interface as burger would be packed
+	in wrapper and cold drink would be packed as bottle.
+3.	We then create a Meal class having List of Item and a MealBilder to build different types of Meal
+	objects by combining Item. Program, our demo class, will use MealBuilder to build a Meal.
+
+
+
+Required Steps for Implementation
+Step 1: Create an interface Item representing food item and packing: IItem.cs, IPacking.cs
+Step 2: Create concrete classes implementing the Packing interface: Wrapper.cs, Bottle.cs
+Step 3: Create abstract classes implementing the item interface providing default functionalities: Burger.cs,
+		ColdDrink.cs
+Step 4: Create concrete classes extending Burger and ColdDrink classes: VegBurger.cs, ChickenBurger.cs, 
+		Coke.cs, Pepsi.cs
+Step 5: Create a Meal class having Item objects defined above: Meal.cs
+Step 6: Create a MealBuilder class, the actual builder class responsible to create Meal objects: MealBuilder.cs
+Step 7: Program uses MealBuilder to demonstrate builder pattern: Program.cs

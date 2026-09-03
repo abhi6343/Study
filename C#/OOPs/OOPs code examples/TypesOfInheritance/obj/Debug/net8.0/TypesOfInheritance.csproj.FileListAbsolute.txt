@@ -1,0 +1,14 @@
+E:\C#\OOPs\OOPs code examples\TypesOfInheritance\bin\Debug\net8.0\TypesOfInheritance.exe
+E:\C#\OOPs\OOPs code examples\TypesOfInheritance\bin\Debug\net8.0\TypesOfInheritance.deps.json
+E:\C#\OOPs\OOPs code examples\TypesOfInheritance\bin\Debug\net8.0\TypesOfInheritance.runtimeconfig.json
+E:\C#\OOPs\OOPs code examples\TypesOfInheritance\bin\Debug\net8.0\TypesOfInheritance.dll
+E:\C#\OOPs\OOPs code examples\TypesOfInheritance\bin\Debug\net8.0\TypesOfInheritance.pdb
+E:\C#\OOPs\OOPs code examples\TypesOfInheritance\obj\Debug\net8.0\TypesOfInheritance.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\OOPs\OOPs code examples\TypesOfInheritance\obj\Debug\net8.0\TypesOfInheritance.AssemblyInfoInputs.cache
+E:\C#\OOPs\OOPs code examples\TypesOfInheritance\obj\Debug\net8.0\TypesOfInheritance.AssemblyInfo.cs
+E:\C#\OOPs\OOPs code examples\TypesOfInheritance\obj\Debug\net8.0\TypesOfInheritance.csproj.CoreCompileInputs.cache
+E:\C#\OOPs\OOPs code examples\TypesOfInheritance\obj\Debug\net8.0\TypesOfInheritance.dll
+E:\C#\OOPs\OOPs code examples\TypesOfInheritance\obj\Debug\net8.0\refint\TypesOfInheritance.dll
+E:\C#\OOPs\OOPs code examples\TypesOfInheritance\obj\Debug\net8.0\TypesOfInheritance.pdb
+E:\C#\OOPs\OOPs code examples\TypesOfInheritance\obj\Debug\net8.0\TypesOfInheritance.genruntimeconfig.cache
+E:\C#\OOPs\OOPs code examples\TypesOfInheritance\obj\Debug\net8.0\ref\TypesOfInheritance.dll

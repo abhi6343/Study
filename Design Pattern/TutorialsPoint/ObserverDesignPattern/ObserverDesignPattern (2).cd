@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ObserverDesignPattern.BinaryObserver" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>BinaryObserver.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ObserverDesignPattern.HexaObserver" Collapsed="true">
+    <Position X="3" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>HexaObserver.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ObserverDesignPattern.Observer" Collapsed="true">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>Observer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ObserverDesignPattern.OctalObserver" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>OctalObserver.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ObserverDesignPattern.Subject" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAIAAAAAAAAAABAAAAAAAAAAAAAAACEAAQAAAAAAAQ=</HashCode>
+      <FileName>Subject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

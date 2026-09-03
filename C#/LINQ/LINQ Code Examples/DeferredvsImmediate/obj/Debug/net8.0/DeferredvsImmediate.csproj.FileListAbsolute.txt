@@ -1,0 +1,14 @@
+E:\C#\LINQ\LINQ Code Examples\DeferredvsImmediate\bin\Debug\net8.0\DeferredvsImmediate.exe
+E:\C#\LINQ\LINQ Code Examples\DeferredvsImmediate\bin\Debug\net8.0\DeferredvsImmediate.deps.json
+E:\C#\LINQ\LINQ Code Examples\DeferredvsImmediate\bin\Debug\net8.0\DeferredvsImmediate.runtimeconfig.json
+E:\C#\LINQ\LINQ Code Examples\DeferredvsImmediate\bin\Debug\net8.0\DeferredvsImmediate.dll
+E:\C#\LINQ\LINQ Code Examples\DeferredvsImmediate\bin\Debug\net8.0\DeferredvsImmediate.pdb
+E:\C#\LINQ\LINQ Code Examples\DeferredvsImmediate\obj\Debug\net8.0\DeferredvsImmediate.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\LINQ\LINQ Code Examples\DeferredvsImmediate\obj\Debug\net8.0\DeferredvsImmediate.AssemblyInfoInputs.cache
+E:\C#\LINQ\LINQ Code Examples\DeferredvsImmediate\obj\Debug\net8.0\DeferredvsImmediate.AssemblyInfo.cs
+E:\C#\LINQ\LINQ Code Examples\DeferredvsImmediate\obj\Debug\net8.0\DeferredvsImmediate.csproj.CoreCompileInputs.cache
+E:\C#\LINQ\LINQ Code Examples\DeferredvsImmediate\obj\Debug\net8.0\DeferredvsImmediate.dll
+E:\C#\LINQ\LINQ Code Examples\DeferredvsImmediate\obj\Debug\net8.0\refint\DeferredvsImmediate.dll
+E:\C#\LINQ\LINQ Code Examples\DeferredvsImmediate\obj\Debug\net8.0\DeferredvsImmediate.pdb
+E:\C#\LINQ\LINQ Code Examples\DeferredvsImmediate\obj\Debug\net8.0\DeferredvsImmediate.genruntimeconfig.cache
+E:\C#\LINQ\LINQ Code Examples\DeferredvsImmediate\obj\Debug\net8.0\ref\DeferredvsImmediate.dll

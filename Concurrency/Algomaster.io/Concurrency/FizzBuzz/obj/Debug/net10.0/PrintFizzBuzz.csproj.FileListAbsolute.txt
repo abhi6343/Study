@@ -1,0 +1,14 @@
+D:\Study\Concurrency\Algomaster.io\Concurrency\FizzBuzz\bin\Debug\net10.0\PrintFizzBuzz.exe
+D:\Study\Concurrency\Algomaster.io\Concurrency\FizzBuzz\bin\Debug\net10.0\PrintFizzBuzz.deps.json
+D:\Study\Concurrency\Algomaster.io\Concurrency\FizzBuzz\bin\Debug\net10.0\PrintFizzBuzz.runtimeconfig.json
+D:\Study\Concurrency\Algomaster.io\Concurrency\FizzBuzz\bin\Debug\net10.0\PrintFizzBuzz.dll
+D:\Study\Concurrency\Algomaster.io\Concurrency\FizzBuzz\bin\Debug\net10.0\PrintFizzBuzz.pdb
+D:\Study\Concurrency\Algomaster.io\Concurrency\FizzBuzz\obj\Debug\net10.0\PrintFizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\Concurrency\Algomaster.io\Concurrency\FizzBuzz\obj\Debug\net10.0\PrintFizzBuzz.AssemblyInfoInputs.cache
+D:\Study\Concurrency\Algomaster.io\Concurrency\FizzBuzz\obj\Debug\net10.0\PrintFizzBuzz.AssemblyInfo.cs
+D:\Study\Concurrency\Algomaster.io\Concurrency\FizzBuzz\obj\Debug\net10.0\PrintFizzBuzz.csproj.CoreCompileInputs.cache
+D:\Study\Concurrency\Algomaster.io\Concurrency\FizzBuzz\obj\Debug\net10.0\PrintFizzBuzz.dll
+D:\Study\Concurrency\Algomaster.io\Concurrency\FizzBuzz\obj\Debug\net10.0\refint\PrintFizzBuzz.dll
+D:\Study\Concurrency\Algomaster.io\Concurrency\FizzBuzz\obj\Debug\net10.0\PrintFizzBuzz.pdb
+D:\Study\Concurrency\Algomaster.io\Concurrency\FizzBuzz\obj\Debug\net10.0\PrintFizzBuzz.genruntimeconfig.cache
+D:\Study\Concurrency\Algomaster.io\Concurrency\FizzBuzz\obj\Debug\net10.0\ref\PrintFizzBuzz.dll

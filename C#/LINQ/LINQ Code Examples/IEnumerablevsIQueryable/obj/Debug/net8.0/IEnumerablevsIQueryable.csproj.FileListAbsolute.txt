@@ -1,0 +1,5 @@
+E:\C#\LINQ\LINQ Code Examples\IEnumerablevsIQueryable\obj\Debug\net8.0\IEnumerablevsIQueryable.csproj.AssemblyReference.cache
+E:\C#\LINQ\LINQ Code Examples\IEnumerablevsIQueryable\obj\Debug\net8.0\IEnumerablevsIQueryable.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\LINQ\LINQ Code Examples\IEnumerablevsIQueryable\obj\Debug\net8.0\IEnumerablevsIQueryable.AssemblyInfoInputs.cache
+E:\C#\LINQ\LINQ Code Examples\IEnumerablevsIQueryable\obj\Debug\net8.0\IEnumerablevsIQueryable.AssemblyInfo.cs
+E:\C#\LINQ\LINQ Code Examples\IEnumerablevsIQueryable\obj\Debug\net8.0\IEnumerablevsIQueryable.csproj.CoreCompileInputs.cache

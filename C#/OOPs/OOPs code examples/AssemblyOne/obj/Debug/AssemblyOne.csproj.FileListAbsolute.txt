@@ -1,0 +1,12 @@
+E:\C#\OOPs\OOPs code examples\AssemblyOne\obj\Debug\AssemblyOne.csproj.AssemblyReference.cache
+E:\C#\OOPs\OOPs code examples\AssemblyOne\obj\Debug\AssemblyOne.csproj.CoreCompileInputs.cache
+E:\C#\OOPs\OOPs code examples\AssemblyOne\bin\Debug\AssemblyOne.dll
+E:\C#\OOPs\OOPs code examples\AssemblyOne\bin\Debug\AssemblyOne.pdb
+E:\C#\OOPs\OOPs code examples\AssemblyOne\obj\Debug\AssemblyOne.dll
+E:\C#\OOPs\OOPs code examples\AssemblyOne\obj\Debug\AssemblyOne.pdb
+D:\Study\C#\OOPs\OOPs code examples\AssemblyOne\bin\Debug\AssemblyOne.dll
+D:\Study\C#\OOPs\OOPs code examples\AssemblyOne\bin\Debug\AssemblyOne.pdb
+D:\Study\C#\OOPs\OOPs code examples\AssemblyOne\obj\Debug\AssemblyOne.csproj.AssemblyReference.cache
+D:\Study\C#\OOPs\OOPs code examples\AssemblyOne\obj\Debug\AssemblyOne.csproj.CoreCompileInputs.cache
+D:\Study\C#\OOPs\OOPs code examples\AssemblyOne\obj\Debug\AssemblyOne.dll
+D:\Study\C#\OOPs\OOPs code examples\AssemblyOne\obj\Debug\AssemblyOne.pdb

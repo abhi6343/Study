@@ -1,0 +1,14 @@
+E:\C#\LINQ\LINQ Code Examples\IntersectMethod\bin\Debug\net8.0\IntersectMethod.exe
+E:\C#\LINQ\LINQ Code Examples\IntersectMethod\bin\Debug\net8.0\IntersectMethod.deps.json
+E:\C#\LINQ\LINQ Code Examples\IntersectMethod\bin\Debug\net8.0\IntersectMethod.runtimeconfig.json
+E:\C#\LINQ\LINQ Code Examples\IntersectMethod\bin\Debug\net8.0\IntersectMethod.dll
+E:\C#\LINQ\LINQ Code Examples\IntersectMethod\bin\Debug\net8.0\IntersectMethod.pdb
+E:\C#\LINQ\LINQ Code Examples\IntersectMethod\obj\Debug\net8.0\IntersectMethod.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\LINQ\LINQ Code Examples\IntersectMethod\obj\Debug\net8.0\IntersectMethod.AssemblyInfoInputs.cache
+E:\C#\LINQ\LINQ Code Examples\IntersectMethod\obj\Debug\net8.0\IntersectMethod.AssemblyInfo.cs
+E:\C#\LINQ\LINQ Code Examples\IntersectMethod\obj\Debug\net8.0\IntersectMethod.csproj.CoreCompileInputs.cache
+E:\C#\LINQ\LINQ Code Examples\IntersectMethod\obj\Debug\net8.0\IntersectMethod.dll
+E:\C#\LINQ\LINQ Code Examples\IntersectMethod\obj\Debug\net8.0\refint\IntersectMethod.dll
+E:\C#\LINQ\LINQ Code Examples\IntersectMethod\obj\Debug\net8.0\IntersectMethod.pdb
+E:\C#\LINQ\LINQ Code Examples\IntersectMethod\obj\Debug\net8.0\IntersectMethod.genruntimeconfig.cache
+E:\C#\LINQ\LINQ Code Examples\IntersectMethod\obj\Debug\net8.0\ref\IntersectMethod.dll

@@ -1,0 +1,5 @@
+D:\Study\Design Pattern\Algomaster.io\LLD\BenchmarkSuite1\obj\Debug\net10.0\BenchmarkSuite1.csproj.AssemblyReference.cache
+D:\Study\Design Pattern\Algomaster.io\LLD\BenchmarkSuite1\obj\Debug\net10.0\BenchmarkSuite1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\Design Pattern\Algomaster.io\LLD\BenchmarkSuite1\obj\Debug\net10.0\BenchmarkSuite1.AssemblyInfoInputs.cache
+D:\Study\Design Pattern\Algomaster.io\LLD\BenchmarkSuite1\obj\Debug\net10.0\BenchmarkSuite1.AssemblyInfo.cs
+D:\Study\Design Pattern\Algomaster.io\LLD\BenchmarkSuite1\obj\Debug\net10.0\BenchmarkSuite1.csproj.CoreCompileInputs.cache

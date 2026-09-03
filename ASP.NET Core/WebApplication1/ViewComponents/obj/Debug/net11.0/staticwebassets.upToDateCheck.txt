@@ -1,0 +1,4 @@
+wwwroot\friends.js
+wwwroot\StyleSheet.css
+D:\Study\ASP.NET Core\WebApplication1\ViewComponents\wwwroot\friends.js
+D:\Study\ASP.NET Core\WebApplication1\ViewComponents\wwwroot\StyleSheet.css

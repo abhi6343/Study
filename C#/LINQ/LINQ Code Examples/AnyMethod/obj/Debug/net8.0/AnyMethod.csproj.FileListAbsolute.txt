@@ -1,0 +1,14 @@
+E:\C#\LINQ\LINQ Code Examples\AnyMethod\bin\Debug\net8.0\AnyMethod.exe
+E:\C#\LINQ\LINQ Code Examples\AnyMethod\bin\Debug\net8.0\AnyMethod.deps.json
+E:\C#\LINQ\LINQ Code Examples\AnyMethod\bin\Debug\net8.0\AnyMethod.runtimeconfig.json
+E:\C#\LINQ\LINQ Code Examples\AnyMethod\bin\Debug\net8.0\AnyMethod.dll
+E:\C#\LINQ\LINQ Code Examples\AnyMethod\bin\Debug\net8.0\AnyMethod.pdb
+E:\C#\LINQ\LINQ Code Examples\AnyMethod\obj\Debug\net8.0\AnyMethod.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\LINQ\LINQ Code Examples\AnyMethod\obj\Debug\net8.0\AnyMethod.AssemblyInfoInputs.cache
+E:\C#\LINQ\LINQ Code Examples\AnyMethod\obj\Debug\net8.0\AnyMethod.AssemblyInfo.cs
+E:\C#\LINQ\LINQ Code Examples\AnyMethod\obj\Debug\net8.0\AnyMethod.csproj.CoreCompileInputs.cache
+E:\C#\LINQ\LINQ Code Examples\AnyMethod\obj\Debug\net8.0\AnyMethod.dll
+E:\C#\LINQ\LINQ Code Examples\AnyMethod\obj\Debug\net8.0\refint\AnyMethod.dll
+E:\C#\LINQ\LINQ Code Examples\AnyMethod\obj\Debug\net8.0\AnyMethod.pdb
+E:\C#\LINQ\LINQ Code Examples\AnyMethod\obj\Debug\net8.0\AnyMethod.genruntimeconfig.cache
+E:\C#\LINQ\LINQ Code Examples\AnyMethod\obj\Debug\net8.0\ref\AnyMethod.dll

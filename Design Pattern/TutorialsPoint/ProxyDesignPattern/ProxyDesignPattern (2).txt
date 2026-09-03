@@ -1,0 +1,24 @@
+Introduction
+1.	In proxy pattern, a class represents functionality of another class. This type of design
+	pattern comes under structural pattern.
+
+2.	In proxy pattern, we create object having original object to interface its functionality
+	to outer world.
+
+
+
+Implementation
+1.	We are going to create an IImage interface and concrete classes implementing the IImage
+	interface. ProxyImage is a proxy class to reduce memory footprint of RealImage object
+	loading.
+
+2.	Program, our demo class, will use ProxyImage to get an IImage object to load and display
+	as it needs.
+
+
+
+Required Steps for Implementation
+Step 1: Create an interface: IImage.cs
+Step 2: Create concrete classes implementing the same interface: RealImage.cs, ProxyImage.cs
+Step 3: Use the ProxyImage to get object RealImage class when required: Program.cs
+Step 4: Verify the output.

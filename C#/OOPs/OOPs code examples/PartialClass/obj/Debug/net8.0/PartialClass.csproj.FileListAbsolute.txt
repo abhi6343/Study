@@ -1,0 +1,14 @@
+E:\C#\OOPs\OOPs code examples\PartialClass\bin\Debug\net8.0\PartialClass.exe
+E:\C#\OOPs\OOPs code examples\PartialClass\bin\Debug\net8.0\PartialClass.deps.json
+E:\C#\OOPs\OOPs code examples\PartialClass\bin\Debug\net8.0\PartialClass.runtimeconfig.json
+E:\C#\OOPs\OOPs code examples\PartialClass\bin\Debug\net8.0\PartialClass.dll
+E:\C#\OOPs\OOPs code examples\PartialClass\bin\Debug\net8.0\PartialClass.pdb
+E:\C#\OOPs\OOPs code examples\PartialClass\obj\Debug\net8.0\PartialClass.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\OOPs\OOPs code examples\PartialClass\obj\Debug\net8.0\PartialClass.AssemblyInfoInputs.cache
+E:\C#\OOPs\OOPs code examples\PartialClass\obj\Debug\net8.0\PartialClass.AssemblyInfo.cs
+E:\C#\OOPs\OOPs code examples\PartialClass\obj\Debug\net8.0\PartialClass.csproj.CoreCompileInputs.cache
+E:\C#\OOPs\OOPs code examples\PartialClass\obj\Debug\net8.0\PartialClass.dll
+E:\C#\OOPs\OOPs code examples\PartialClass\obj\Debug\net8.0\refint\PartialClass.dll
+E:\C#\OOPs\OOPs code examples\PartialClass\obj\Debug\net8.0\PartialClass.pdb
+E:\C#\OOPs\OOPs code examples\PartialClass\obj\Debug\net8.0\PartialClass.genruntimeconfig.cache
+E:\C#\OOPs\OOPs code examples\PartialClass\obj\Debug\net8.0\ref\PartialClass.dll

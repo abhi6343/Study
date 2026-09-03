@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "PipeServer\\PipeServer.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "PipeClient\\PipeClient.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

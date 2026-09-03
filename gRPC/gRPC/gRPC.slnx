@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/Proto/">
+    <File Path="dummy.proto" />
+    <File Path="greeting.proto" />
+    <File Path="primeDecomposition.proto" />
+    <File Path="sum.proto" />
+  </Folder>
+  <Project Path="Client/Client.csproj" Id="eb4a735b-d671-4548-98ea-326eecb9ad72" />
+  <Project Path="Server/Server.csproj" Id="1d8181a4-1178-4f2a-ad1f-43b892f36378" />
+</Solution>

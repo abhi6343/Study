@@ -1,0 +1,14 @@
+D:\Study\Design Pattern\Algomaster.io\LLD\BloomFilter\obj\Debug\net10.0\BloomFilter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\Design Pattern\Algomaster.io\LLD\BloomFilter\obj\Debug\net10.0\BloomFilter.AssemblyInfoInputs.cache
+D:\Study\Design Pattern\Algomaster.io\LLD\BloomFilter\obj\Debug\net10.0\BloomFilter.AssemblyInfo.cs
+D:\Study\Design Pattern\Algomaster.io\LLD\BloomFilter\obj\Debug\net10.0\BloomFilter.csproj.CoreCompileInputs.cache
+D:\Study\Design Pattern\Algomaster.io\LLD\BloomFilter\bin\Debug\net10.0\BloomFilter.exe
+D:\Study\Design Pattern\Algomaster.io\LLD\BloomFilter\bin\Debug\net10.0\BloomFilter.deps.json
+D:\Study\Design Pattern\Algomaster.io\LLD\BloomFilter\bin\Debug\net10.0\BloomFilter.runtimeconfig.json
+D:\Study\Design Pattern\Algomaster.io\LLD\BloomFilter\bin\Debug\net10.0\BloomFilter.dll
+D:\Study\Design Pattern\Algomaster.io\LLD\BloomFilter\bin\Debug\net10.0\BloomFilter.pdb
+D:\Study\Design Pattern\Algomaster.io\LLD\BloomFilter\obj\Debug\net10.0\BloomFilter.dll
+D:\Study\Design Pattern\Algomaster.io\LLD\BloomFilter\obj\Debug\net10.0\refint\BloomFilter.dll
+D:\Study\Design Pattern\Algomaster.io\LLD\BloomFilter\obj\Debug\net10.0\BloomFilter.pdb
+D:\Study\Design Pattern\Algomaster.io\LLD\BloomFilter\obj\Debug\net10.0\BloomFilter.genruntimeconfig.cache
+D:\Study\Design Pattern\Algomaster.io\LLD\BloomFilter\obj\Debug\net10.0\ref\BloomFilter.dll

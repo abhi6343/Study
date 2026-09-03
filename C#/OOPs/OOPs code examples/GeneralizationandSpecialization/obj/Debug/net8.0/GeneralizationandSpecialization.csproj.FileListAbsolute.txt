@@ -1,0 +1,14 @@
+E:\C#\OOPs\OOPs code examples\GeneralizationandSpecialization\bin\Debug\net8.0\GeneralizationandSpecialization.exe
+E:\C#\OOPs\OOPs code examples\GeneralizationandSpecialization\bin\Debug\net8.0\GeneralizationandSpecialization.deps.json
+E:\C#\OOPs\OOPs code examples\GeneralizationandSpecialization\bin\Debug\net8.0\GeneralizationandSpecialization.runtimeconfig.json
+E:\C#\OOPs\OOPs code examples\GeneralizationandSpecialization\bin\Debug\net8.0\GeneralizationandSpecialization.dll
+E:\C#\OOPs\OOPs code examples\GeneralizationandSpecialization\bin\Debug\net8.0\GeneralizationandSpecialization.pdb
+E:\C#\OOPs\OOPs code examples\GeneralizationandSpecialization\obj\Debug\net8.0\GeneralizationandSpecialization.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\OOPs\OOPs code examples\GeneralizationandSpecialization\obj\Debug\net8.0\GeneralizationandSpecialization.AssemblyInfoInputs.cache
+E:\C#\OOPs\OOPs code examples\GeneralizationandSpecialization\obj\Debug\net8.0\GeneralizationandSpecialization.AssemblyInfo.cs
+E:\C#\OOPs\OOPs code examples\GeneralizationandSpecialization\obj\Debug\net8.0\GeneralizationandSpecialization.csproj.CoreCompileInputs.cache
+E:\C#\OOPs\OOPs code examples\GeneralizationandSpecialization\obj\Debug\net8.0\GeneralizationandSpecialization.dll
+E:\C#\OOPs\OOPs code examples\GeneralizationandSpecialization\obj\Debug\net8.0\refint\GeneralizationandSpecialization.dll
+E:\C#\OOPs\OOPs code examples\GeneralizationandSpecialization\obj\Debug\net8.0\GeneralizationandSpecialization.pdb
+E:\C#\OOPs\OOPs code examples\GeneralizationandSpecialization\obj\Debug\net8.0\GeneralizationandSpecialization.genruntimeconfig.cache
+E:\C#\OOPs\OOPs code examples\GeneralizationandSpecialization\obj\Debug\net8.0\ref\GeneralizationandSpecialization.dll

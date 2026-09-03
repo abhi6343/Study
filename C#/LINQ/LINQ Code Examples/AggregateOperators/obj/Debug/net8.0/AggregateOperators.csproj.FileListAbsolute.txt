@@ -1,0 +1,14 @@
+E:\C#\LINQ\LINQ Code Examples\AggregateOperators\bin\Debug\net8.0\AggregateOperators.exe
+E:\C#\LINQ\LINQ Code Examples\AggregateOperators\bin\Debug\net8.0\AggregateOperators.deps.json
+E:\C#\LINQ\LINQ Code Examples\AggregateOperators\bin\Debug\net8.0\AggregateOperators.runtimeconfig.json
+E:\C#\LINQ\LINQ Code Examples\AggregateOperators\bin\Debug\net8.0\AggregateOperators.dll
+E:\C#\LINQ\LINQ Code Examples\AggregateOperators\bin\Debug\net8.0\AggregateOperators.pdb
+E:\C#\LINQ\LINQ Code Examples\AggregateOperators\obj\Debug\net8.0\AggregateOperators.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\LINQ\LINQ Code Examples\AggregateOperators\obj\Debug\net8.0\AggregateOperators.AssemblyInfoInputs.cache
+E:\C#\LINQ\LINQ Code Examples\AggregateOperators\obj\Debug\net8.0\AggregateOperators.AssemblyInfo.cs
+E:\C#\LINQ\LINQ Code Examples\AggregateOperators\obj\Debug\net8.0\AggregateOperators.csproj.CoreCompileInputs.cache
+E:\C#\LINQ\LINQ Code Examples\AggregateOperators\obj\Debug\net8.0\AggregateOperators.dll
+E:\C#\LINQ\LINQ Code Examples\AggregateOperators\obj\Debug\net8.0\refint\AggregateOperators.dll
+E:\C#\LINQ\LINQ Code Examples\AggregateOperators\obj\Debug\net8.0\AggregateOperators.pdb
+E:\C#\LINQ\LINQ Code Examples\AggregateOperators\obj\Debug\net8.0\AggregateOperators.genruntimeconfig.cache
+E:\C#\LINQ\LINQ Code Examples\AggregateOperators\obj\Debug\net8.0\ref\AggregateOperators.dll

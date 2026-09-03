@@ -1,0 +1,24 @@
+﻿Introduction
+1.	Interpreter pattern provides a way to evaluate language grammar or expression.
+	This type of pattern comes under behavioral pattern. This pattern involves
+	implementing an expression interface which tells to interpret a particular 
+	context. This pattern is used in SQL parsing, symbol processing engine etc.
+
+
+
+Implementation
+1.	We are going to create an interface IExpression and concrete classes implementing
+	the IExpression interface. A class TerminalExpression is defined which acts as a
+	main interpreter of context in question. Other classes are OrExpression and
+	AndExpression which are used to create combinational expressions. Program, our 
+	demo class, will use IExpression class to create rules and demonstrate parsing 
+	of expressions.
+
+
+
+Required Steps for Implementation
+Step 1: Create an expression interface: IExpression.cs
+Step 2: Create concrete classes implementing the above interface: TerminalExpression.cs,
+		OrExpression.cs, AndExpression.cs
+Step 3: Program uses IExpression class to create rules and then parse: Program.cs
+Step 4: Verify the output.

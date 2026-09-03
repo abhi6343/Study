@@ -1,0 +1,14 @@
+E:\C#\LINQ\LINQ Code Examples\SelectProjectionOperator\bin\Debug\net8.0\SelectProjectionOperator.exe
+E:\C#\LINQ\LINQ Code Examples\SelectProjectionOperator\bin\Debug\net8.0\SelectProjectionOperator.deps.json
+E:\C#\LINQ\LINQ Code Examples\SelectProjectionOperator\bin\Debug\net8.0\SelectProjectionOperator.runtimeconfig.json
+E:\C#\LINQ\LINQ Code Examples\SelectProjectionOperator\bin\Debug\net8.0\SelectProjectionOperator.dll
+E:\C#\LINQ\LINQ Code Examples\SelectProjectionOperator\bin\Debug\net8.0\SelectProjectionOperator.pdb
+E:\C#\LINQ\LINQ Code Examples\SelectProjectionOperator\obj\Debug\net8.0\SelectProjectionOperator.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\LINQ\LINQ Code Examples\SelectProjectionOperator\obj\Debug\net8.0\SelectProjectionOperator.AssemblyInfoInputs.cache
+E:\C#\LINQ\LINQ Code Examples\SelectProjectionOperator\obj\Debug\net8.0\SelectProjectionOperator.AssemblyInfo.cs
+E:\C#\LINQ\LINQ Code Examples\SelectProjectionOperator\obj\Debug\net8.0\SelectProjectionOperator.csproj.CoreCompileInputs.cache
+E:\C#\LINQ\LINQ Code Examples\SelectProjectionOperator\obj\Debug\net8.0\SelectProjectionOperator.dll
+E:\C#\LINQ\LINQ Code Examples\SelectProjectionOperator\obj\Debug\net8.0\refint\SelectProjectionOperator.dll
+E:\C#\LINQ\LINQ Code Examples\SelectProjectionOperator\obj\Debug\net8.0\SelectProjectionOperator.pdb
+E:\C#\LINQ\LINQ Code Examples\SelectProjectionOperator\obj\Debug\net8.0\SelectProjectionOperator.genruntimeconfig.cache
+E:\C#\LINQ\LINQ Code Examples\SelectProjectionOperator\obj\Debug\net8.0\ref\SelectProjectionOperator.dll

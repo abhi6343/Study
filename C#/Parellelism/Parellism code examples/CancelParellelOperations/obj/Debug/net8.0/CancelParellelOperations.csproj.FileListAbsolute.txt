@@ -1,0 +1,14 @@
+C:\Users\Abhishek\source\repos\CancelParellelOperations\bin\Debug\net8.0\CancelParellelOperations.exe
+C:\Users\Abhishek\source\repos\CancelParellelOperations\bin\Debug\net8.0\CancelParellelOperations.deps.json
+C:\Users\Abhishek\source\repos\CancelParellelOperations\bin\Debug\net8.0\CancelParellelOperations.runtimeconfig.json
+C:\Users\Abhishek\source\repos\CancelParellelOperations\bin\Debug\net8.0\CancelParellelOperations.dll
+C:\Users\Abhishek\source\repos\CancelParellelOperations\bin\Debug\net8.0\CancelParellelOperations.pdb
+C:\Users\Abhishek\source\repos\CancelParellelOperations\obj\Debug\net8.0\CancelParellelOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abhishek\source\repos\CancelParellelOperations\obj\Debug\net8.0\CancelParellelOperations.AssemblyInfoInputs.cache
+C:\Users\Abhishek\source\repos\CancelParellelOperations\obj\Debug\net8.0\CancelParellelOperations.AssemblyInfo.cs
+C:\Users\Abhishek\source\repos\CancelParellelOperations\obj\Debug\net8.0\CancelParellelOperations.csproj.CoreCompileInputs.cache
+C:\Users\Abhishek\source\repos\CancelParellelOperations\obj\Debug\net8.0\CancelParellelOperations.dll
+C:\Users\Abhishek\source\repos\CancelParellelOperations\obj\Debug\net8.0\refint\CancelParellelOperations.dll
+C:\Users\Abhishek\source\repos\CancelParellelOperations\obj\Debug\net8.0\CancelParellelOperations.pdb
+C:\Users\Abhishek\source\repos\CancelParellelOperations\obj\Debug\net8.0\CancelParellelOperations.genruntimeconfig.cache
+C:\Users\Abhishek\source\repos\CancelParellelOperations\obj\Debug\net8.0\ref\CancelParellelOperations.dll

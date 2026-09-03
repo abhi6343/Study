@@ -1,0 +1,28 @@
+<Solution>
+  <Project Path="BankApp/BankApp.csproj" Id="67f56972-e3ea-474a-9df0-621dac2aefe5" />
+  <Project Path="ConfigurationDemo/ConfigurationDemo.csproj" Id="40580a09-5fd9-4b68-aebe-5065efa3ed08" />
+  <Project Path="Controller/Controller.csproj" Id="33bd4ba0-4e88-47dd-8b66-c574b55b63bb" />
+  <Project Path="CountriesApp/CountriesApp.csproj" Id="f2949eae-1c2a-4ced-b6bf-9e9810c5fc2f" />
+  <Project Path="CRUDExample/CRUDExample.csproj" Id="b5317964-0d60-4f76-a3c8-0644352bbef8" />
+  <Project Path="CRUDTests/CRUDTests.csproj" Id="e745bd12-3b86-4b13-bda9-70c27c68b1df" />
+  <Project Path="DependencyExample/DependencyInjectionExample.csproj" Id="b8b2c466-7e81-4e24-9401-d189e2e1e665" />
+  <Project Path="Entities/Entities.csproj" Id="b6c66a20-1592-4626-ac93-714cf8431f1b" />
+  <Project Path="EnvironmentExample/EnvironmentExample.csproj" Id="a07fad4b-5828-4201-88cc-a4266ea334ae" />
+  <Project Path="LayoutViews/LayoutViews.csproj" Id="a3107c7b-6106-42e9-a147-cd94d02bf802" />
+  <Project Path="LoginApp/LoginApp.csproj" Id="3f25eb7f-2363-4304-9d78-96b6b5ede379" />
+  <Project Path="MathApp/MathApp.csproj" Id="e7c5e477-c88c-4a5c-8c1c-48793db0e92d" />
+  <Project Path="Middleware/Middleware.csproj" Id="404443a6-66b9-40a2-b8d3-45ca9a8f4e17" />
+  <Project Path="OrderApp/OrderApp.csproj" Id="c2fb897d-1589-470d-8f76-db6272142e48" />
+  <Project Path="PartialViews/PartialViews.csproj" Id="fcc5ba78-6ee5-4de8-8941-063a3613c17a" />
+  <Project Path="Routing/Routing.csproj" Id="271013dd-c208-411d-b527-27da305d5911" />
+  <Project Path="ServeStaticFiles/ServeStaticFiles.csproj" Id="8c12519d-8868-44f2-b57e-2bafb6a98a9a" />
+  <Project Path="ServiceContracts/ServiceContracts.csproj" Id="53defe8a-42b4-40be-a793-b9e98638dc4e" />
+  <Project Path="ServiceContractsxUnit/ServiceContractsxUnit.csproj" Id="a1af2c2c-2943-4f12-8e5e-f013ba9a9d02" />
+  <Project Path="Services/Services.csproj" Id="2a7117a5-7fb6-42cd-8b47-9517588cfe87" />
+  <Project Path="ServicesxUnit/ServicesxUnit.csproj" Id="31d358a4-cee5-4873-ae61-6b51aaaf7347" />
+  <Project Path="StocksApp/StocksApp.csproj" Id="de76cbf7-cf22-4082-8441-01b2e53bba2f" />
+  <Project Path="ViewComponents/ViewComponents.csproj" Id="0df5d872-64b8-41ff-a2e3-ea6c03611c6f" />
+  <Project Path="Views/ViewsDemo.csproj" Id="3812c79e-95f9-459b-8a61-c92f72b3bf38" />
+  <Project Path="WeatherApp/WeatherApp.csproj" Id="1a8ce118-ecec-4bda-8915-9808a269876d" />
+  <Project Path="WebApplication1/WebApplication1.csproj" />
+</Solution>

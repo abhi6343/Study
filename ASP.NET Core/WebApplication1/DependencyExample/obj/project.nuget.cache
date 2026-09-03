@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "3uaBIYyFlYg=",
+  "success": true,
+  "projectFilePath": "D:\\Study\\ASP.NET Core\\WebApplication1\\DependencyExample\\DependencyInjectionExample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gupta\\.nuget\\packages\\autofac\\9.3.2\\autofac.9.3.2.nupkg.sha512",
+    "C:\\Users\\gupta\\.nuget\\packages\\autofac.extensions.dependencyinjection\\11.0.2\\autofac.extensions.dependencyinjection.11.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

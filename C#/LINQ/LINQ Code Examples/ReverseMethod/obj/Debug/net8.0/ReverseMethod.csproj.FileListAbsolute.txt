@@ -1,0 +1,14 @@
+E:\C#\LINQ\LINQ Code Examples\ReverseMethod\bin\Debug\net8.0\ReverseMethod.exe
+E:\C#\LINQ\LINQ Code Examples\ReverseMethod\bin\Debug\net8.0\ReverseMethod.deps.json
+E:\C#\LINQ\LINQ Code Examples\ReverseMethod\bin\Debug\net8.0\ReverseMethod.runtimeconfig.json
+E:\C#\LINQ\LINQ Code Examples\ReverseMethod\bin\Debug\net8.0\ReverseMethod.dll
+E:\C#\LINQ\LINQ Code Examples\ReverseMethod\bin\Debug\net8.0\ReverseMethod.pdb
+E:\C#\LINQ\LINQ Code Examples\ReverseMethod\obj\Debug\net8.0\ReverseMethod.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\LINQ\LINQ Code Examples\ReverseMethod\obj\Debug\net8.0\ReverseMethod.AssemblyInfoInputs.cache
+E:\C#\LINQ\LINQ Code Examples\ReverseMethod\obj\Debug\net8.0\ReverseMethod.AssemblyInfo.cs
+E:\C#\LINQ\LINQ Code Examples\ReverseMethod\obj\Debug\net8.0\ReverseMethod.csproj.CoreCompileInputs.cache
+E:\C#\LINQ\LINQ Code Examples\ReverseMethod\obj\Debug\net8.0\ReverseMethod.dll
+E:\C#\LINQ\LINQ Code Examples\ReverseMethod\obj\Debug\net8.0\refint\ReverseMethod.dll
+E:\C#\LINQ\LINQ Code Examples\ReverseMethod\obj\Debug\net8.0\ReverseMethod.pdb
+E:\C#\LINQ\LINQ Code Examples\ReverseMethod\obj\Debug\net8.0\ReverseMethod.genruntimeconfig.cache
+E:\C#\LINQ\LINQ Code Examples\ReverseMethod\obj\Debug\net8.0\ref\ReverseMethod.dll

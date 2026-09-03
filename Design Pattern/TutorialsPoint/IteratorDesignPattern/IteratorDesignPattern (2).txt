@@ -1,0 +1,23 @@
+﻿Introduction
+1.	Iterator pattern is a commonly used design pattern in Java and .Net programming environment.
+	This pattern is used to get a way to access the elements of a collection object in sequential
+	manner without any need to know its underlying representation. Iterator pattern falls under
+	behavioral pattern category.
+
+
+
+Implementation
+1.	We are going to create an IIterator interface which includes navigation method and an IContainer
+	interface which returns the iterator. Concrete classes implementing the IContainer interface will
+	be responsible to implement IIterator interface and use it. Program, our demo class, will use
+	NamesRepository, a concrete class implementation, to print Names stored as a collection in 
+	NamesReository.
+
+
+
+Required Steps for Implementation
+Step 1: Create an interface: IIterator.cs, IContainer.cs
+Step 2: Create concrete class implementing the IContainer interface. This class has inner class
+		NameIterator implementing the IIterator interface: NameRepository.cs
+Step 3: Use the NameRepository to get iterator and print names: Program.cs
+Step 4: Verify the output.

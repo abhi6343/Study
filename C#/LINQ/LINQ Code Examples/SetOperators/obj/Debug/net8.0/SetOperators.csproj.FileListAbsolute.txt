@@ -1,0 +1,14 @@
+E:\C#\LINQ\LINQ Code Examples\SetOperators\bin\Debug\net8.0\SetOperators.exe
+E:\C#\LINQ\LINQ Code Examples\SetOperators\bin\Debug\net8.0\SetOperators.deps.json
+E:\C#\LINQ\LINQ Code Examples\SetOperators\bin\Debug\net8.0\SetOperators.runtimeconfig.json
+E:\C#\LINQ\LINQ Code Examples\SetOperators\bin\Debug\net8.0\SetOperators.dll
+E:\C#\LINQ\LINQ Code Examples\SetOperators\bin\Debug\net8.0\SetOperators.pdb
+E:\C#\LINQ\LINQ Code Examples\SetOperators\obj\Debug\net8.0\SetOperators.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\LINQ\LINQ Code Examples\SetOperators\obj\Debug\net8.0\SetOperators.AssemblyInfoInputs.cache
+E:\C#\LINQ\LINQ Code Examples\SetOperators\obj\Debug\net8.0\SetOperators.AssemblyInfo.cs
+E:\C#\LINQ\LINQ Code Examples\SetOperators\obj\Debug\net8.0\SetOperators.csproj.CoreCompileInputs.cache
+E:\C#\LINQ\LINQ Code Examples\SetOperators\obj\Debug\net8.0\SetOperators.dll
+E:\C#\LINQ\LINQ Code Examples\SetOperators\obj\Debug\net8.0\refint\SetOperators.dll
+E:\C#\LINQ\LINQ Code Examples\SetOperators\obj\Debug\net8.0\SetOperators.pdb
+E:\C#\LINQ\LINQ Code Examples\SetOperators\obj\Debug\net8.0\SetOperators.genruntimeconfig.cache
+E:\C#\LINQ\LINQ Code Examples\SetOperators\obj\Debug\net8.0\ref\SetOperators.dll

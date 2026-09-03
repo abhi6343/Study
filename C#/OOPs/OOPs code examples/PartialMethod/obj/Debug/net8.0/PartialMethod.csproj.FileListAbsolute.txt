@@ -1,0 +1,14 @@
+E:\C#\OOPs\OOPs code examples\PartialMethod\bin\Debug\net8.0\PartialMethod.exe
+E:\C#\OOPs\OOPs code examples\PartialMethod\bin\Debug\net8.0\PartialMethod.deps.json
+E:\C#\OOPs\OOPs code examples\PartialMethod\bin\Debug\net8.0\PartialMethod.runtimeconfig.json
+E:\C#\OOPs\OOPs code examples\PartialMethod\bin\Debug\net8.0\PartialMethod.dll
+E:\C#\OOPs\OOPs code examples\PartialMethod\bin\Debug\net8.0\PartialMethod.pdb
+E:\C#\OOPs\OOPs code examples\PartialMethod\obj\Debug\net8.0\PartialMethod.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\OOPs\OOPs code examples\PartialMethod\obj\Debug\net8.0\PartialMethod.AssemblyInfoInputs.cache
+E:\C#\OOPs\OOPs code examples\PartialMethod\obj\Debug\net8.0\PartialMethod.AssemblyInfo.cs
+E:\C#\OOPs\OOPs code examples\PartialMethod\obj\Debug\net8.0\PartialMethod.csproj.CoreCompileInputs.cache
+E:\C#\OOPs\OOPs code examples\PartialMethod\obj\Debug\net8.0\PartialMethod.dll
+E:\C#\OOPs\OOPs code examples\PartialMethod\obj\Debug\net8.0\refint\PartialMethod.dll
+E:\C#\OOPs\OOPs code examples\PartialMethod\obj\Debug\net8.0\PartialMethod.pdb
+E:\C#\OOPs\OOPs code examples\PartialMethod\obj\Debug\net8.0\PartialMethod.genruntimeconfig.cache
+E:\C#\OOPs\OOPs code examples\PartialMethod\obj\Debug\net8.0\ref\PartialMethod.dll

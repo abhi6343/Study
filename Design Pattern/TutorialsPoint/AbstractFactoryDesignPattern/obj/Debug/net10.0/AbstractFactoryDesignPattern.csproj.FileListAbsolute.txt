@@ -1,0 +1,4 @@
+D:\Study\Design Pattern\AbstractFactoryDesignPattern\obj\Debug\net10.0\AbstractFactoryDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\Design Pattern\AbstractFactoryDesignPattern\obj\Debug\net10.0\AbstractFactoryDesignPattern.AssemblyInfoInputs.cache
+D:\Study\Design Pattern\AbstractFactoryDesignPattern\obj\Debug\net10.0\AbstractFactoryDesignPattern.AssemblyInfo.cs
+D:\Study\Design Pattern\AbstractFactoryDesignPattern\obj\Debug\net10.0\AbstractFactoryDesignPattern.csproj.CoreCompileInputs.cache

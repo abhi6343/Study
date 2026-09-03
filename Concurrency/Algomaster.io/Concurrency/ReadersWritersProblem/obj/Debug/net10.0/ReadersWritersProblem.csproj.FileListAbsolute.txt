@@ -1,0 +1,14 @@
+D:\Study\Concurrency\Algomaster.io\Concurrency\ReadersWritersProblem\bin\Debug\net10.0\ReadersWritersProblem.exe
+D:\Study\Concurrency\Algomaster.io\Concurrency\ReadersWritersProblem\bin\Debug\net10.0\ReadersWritersProblem.deps.json
+D:\Study\Concurrency\Algomaster.io\Concurrency\ReadersWritersProblem\bin\Debug\net10.0\ReadersWritersProblem.runtimeconfig.json
+D:\Study\Concurrency\Algomaster.io\Concurrency\ReadersWritersProblem\bin\Debug\net10.0\ReadersWritersProblem.dll
+D:\Study\Concurrency\Algomaster.io\Concurrency\ReadersWritersProblem\bin\Debug\net10.0\ReadersWritersProblem.pdb
+D:\Study\Concurrency\Algomaster.io\Concurrency\ReadersWritersProblem\obj\Debug\net10.0\ReadersWritersProblem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\Concurrency\Algomaster.io\Concurrency\ReadersWritersProblem\obj\Debug\net10.0\ReadersWritersProblem.AssemblyInfoInputs.cache
+D:\Study\Concurrency\Algomaster.io\Concurrency\ReadersWritersProblem\obj\Debug\net10.0\ReadersWritersProblem.AssemblyInfo.cs
+D:\Study\Concurrency\Algomaster.io\Concurrency\ReadersWritersProblem\obj\Debug\net10.0\ReadersWritersProblem.csproj.CoreCompileInputs.cache
+D:\Study\Concurrency\Algomaster.io\Concurrency\ReadersWritersProblem\obj\Debug\net10.0\ReadersWritersProblem.dll
+D:\Study\Concurrency\Algomaster.io\Concurrency\ReadersWritersProblem\obj\Debug\net10.0\refint\ReadersWritersProblem.dll
+D:\Study\Concurrency\Algomaster.io\Concurrency\ReadersWritersProblem\obj\Debug\net10.0\ReadersWritersProblem.pdb
+D:\Study\Concurrency\Algomaster.io\Concurrency\ReadersWritersProblem\obj\Debug\net10.0\ReadersWritersProblem.genruntimeconfig.cache
+D:\Study\Concurrency\Algomaster.io\Concurrency\ReadersWritersProblem\obj\Debug\net10.0\ref\ReadersWritersProblem.dll

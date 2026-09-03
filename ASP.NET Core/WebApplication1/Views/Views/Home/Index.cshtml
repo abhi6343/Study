@@ -1,0 +1,140 @@
+﻿@model List<Person>
+@{
+	//string appTitle = "ASP.NET Core MVC";
+	// Person person = new Person
+	// {
+	// 	Id = 1,
+	// 	Name = "John Doe",		DateOfBirth = null, // or new DateTime(1990, 1, 1)
+	// 	Gender = Gender.Male
+	// };
+
+	// List<Person> people = new List<Person>
+	// {
+	// 	new Person { Id = 1, Name = "John Doe", DateOfBirth = new DateTime(1990, 1, 1), Gender = Gender.Male },
+	// 	new Person { Id = 2, Name = "Joe Smith", DateOfBirth = new DateTime(1990, 1, 1), Gender = Gender.Male },
+	// 	new Person { Id = 3, Name = "Scott Trump", DateOfBirth = new DateTime(1990, 1, 1), Gender = Gender.Male },
+	// 	new Person { Id = 4, Name = "Theresa May", DateOfBirth = new DateTime(1990, 1, 1), Gender = Gender.Female }
+	// };
+}
+@functions {
+	// Method to calculate age from date of birth
+	double? GetAge(DateTime? dateOfBirth)
+	{
+		if (dateOfBirth.HasValue)
+		{
+			return Math.Round((DateTime.Now - dateOfBirth.Value).TotalDays / 365.25);
+		}
+		return null;
+	}
+	// int x = 10;
+	// public string Name { get; set; } = "Hello Name";
+}
+@{
+	// Local functiuon to calculate age from date of birth
+	double? GetAge(DateTime? dateOfBirth)
+	{
+		if (dateOfBirth.HasValue)
+		{
+			return Math.Round((DateTime.Now - dateOfBirth.Value).TotalDays / 365.25);
+		}
+		return null;
+	}
+	//string AlertMessage = $"<script>alert('{people.Count} people found.')</script>";
+}
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+	<meta charset="utf-8" />
+	@* <title>@appTitle</title> *@
+	<title>@(ViewData["appTitle"]?.ToString() ?? "ASP.NET Core MVC")</title>
+	<link href="~/StyleSheet.css" rel="stylesheet" />
+</head>
+<body>
+	<div class="page-content">
+		@* @Html.Raw(AlertMessage) *@
+		@* <h1>Welcome to ASP.NET Core MVC!</h1> *@
+		<h1>Persons</h1>
+		@* <h2>Hello, @person.Name!</h2>
+			<p>ID: @person.Id</p>
+			<p>Date of Birth: @(person.DateOfBirth.HasValue ? person.DateOfBirth.Value.ToString("MM/dd/yyyy") : "Not provided")</p> *@
+		@* @if (!person.DateOfBirth.HasValue)
+			{
+				<p></p>
+			}
+			else
+			{
+				double age = (DateTime.Now - person.DateOfBirth.Value).TotalDays / 365.25;
+				<p>Age: @age.ToString("F2") years old</p>
+			}*@	
+
+		@*@switch (person.Gender)
+			{
+				case Gender.Male:
+					<p>Gender: Male</p>
+					break;
+				case Gender.Female:
+					<p>Gender: Female</p>
+					break;
+				case Gender.Other:
+					<p>Gender: Other</p>
+					break;
+			}*@
+		@*@foreach(var p in people)
+			{ 
+				<div>Person: ID: @p.Id<span>, </span>@p.Name <span>, </span>@p.Gender
+					@if (p.DateOfBirth.HasValue)
+					{
+						<span>, </span>
+						@p.DateOfBirth.Value.ToString("MM/dd/yyyy")
+					}
+					else
+					{
+						<span>, Date of Birth is not provided.</span>				
+					}			
+				</div>
+			}*@
+		@{
+			//var people = ViewData["people"] as List<Person>;
+		}
+
+		@* @if (people != null && people.Count > 0) *@
+		@{
+			//for (int i = 0; i < ViewBag.People.Count; i++)
+			for (int i = 0; i < Model.Count; i++)
+			{
+				var p = Model[i];
+				if (p == null) { continue; }
+				<div class="box float-left w-50">
+					@* <text>Hello to, </text> *@
+					<table class="table w-100">
+						<thead>
+							<tr>
+								<th>ID</th>
+								<th>Name</th>
+								<th>Gender</th>
+								<th>Age</th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td>@p.Id</td>
+								<td>@p.Name</td>
+								<td>@p.Gender</td>
+								<td>@GetAge(p.DateOfBirth) years old</td>
+							</tr>
+						</tbody>
+					</table>
+					<a href="/person-details/@p.Name">Details</a>
+				</div>
+			}
+		}
+		@* else
+			{
+				<div>No people available</div>
+			} *@
+		<div>
+			<a href="/person-with-product">Person with Product</a>
+		</div>
+	</div>
+</body>
+</html>

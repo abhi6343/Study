@@ -1,0 +1,14 @@
+E:\C#\LINQ\LINQ Code Examples\QuantifierOperators\bin\Debug\net8.0\QuantifierOperators.exe
+E:\C#\LINQ\LINQ Code Examples\QuantifierOperators\bin\Debug\net8.0\QuantifierOperators.deps.json
+E:\C#\LINQ\LINQ Code Examples\QuantifierOperators\bin\Debug\net8.0\QuantifierOperators.runtimeconfig.json
+E:\C#\LINQ\LINQ Code Examples\QuantifierOperators\bin\Debug\net8.0\QuantifierOperators.dll
+E:\C#\LINQ\LINQ Code Examples\QuantifierOperators\bin\Debug\net8.0\QuantifierOperators.pdb
+E:\C#\LINQ\LINQ Code Examples\QuantifierOperators\obj\Debug\net8.0\QuantifierOperators.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\LINQ\LINQ Code Examples\QuantifierOperators\obj\Debug\net8.0\QuantifierOperators.AssemblyInfoInputs.cache
+E:\C#\LINQ\LINQ Code Examples\QuantifierOperators\obj\Debug\net8.0\QuantifierOperators.AssemblyInfo.cs
+E:\C#\LINQ\LINQ Code Examples\QuantifierOperators\obj\Debug\net8.0\QuantifierOperators.csproj.CoreCompileInputs.cache
+E:\C#\LINQ\LINQ Code Examples\QuantifierOperators\obj\Debug\net8.0\QuantifierOperators.dll
+E:\C#\LINQ\LINQ Code Examples\QuantifierOperators\obj\Debug\net8.0\refint\QuantifierOperators.dll
+E:\C#\LINQ\LINQ Code Examples\QuantifierOperators\obj\Debug\net8.0\QuantifierOperators.pdb
+E:\C#\LINQ\LINQ Code Examples\QuantifierOperators\obj\Debug\net8.0\QuantifierOperators.genruntimeconfig.cache
+E:\C#\LINQ\LINQ Code Examples\QuantifierOperators\obj\Debug\net8.0\ref\QuantifierOperators.dll

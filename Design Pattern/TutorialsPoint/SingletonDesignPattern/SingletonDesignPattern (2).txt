@@ -1,0 +1,21 @@
+﻿Introduction
+1.	Singleton pattern is one of the simplest design patterns in Java. This type of design
+	pattern comes under creational pattern as this pattern provides one of the best ways to 
+	create an object.
+
+2.	This pattern involves a single class which is responsible to create an object while
+	making sure that only single object gets created. This class provides a way to access 
+	its only object which can be accessed directly without instantiating the object of the class.
+
+
+Implementation
+1.	We are going to create a SingletonObject class which has its constructor as private 
+	and a static instance of itself.
+2.	SingletonObject class provides a static method to get its static instance to outside 
+	world. Program.cs, our demo class, will use SingletonObjectclass to get a SingletonObject object.
+
+
+Required Steps for Implementation
+Step 1: Create a Singleton Class: SingletonObject.cs
+Step 2: Get the only object from the singleton class: Program.cs
+Step 3: Verify the output.

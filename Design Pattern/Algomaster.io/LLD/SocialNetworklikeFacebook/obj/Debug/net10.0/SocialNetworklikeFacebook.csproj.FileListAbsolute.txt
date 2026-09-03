@@ -1,0 +1,14 @@
+D:\Study\Design Pattern\Algomaster.io\LLD\SocialNetworklikeFacebook\obj\Debug\net10.0\SocialNetworklikeFacebook.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\Design Pattern\Algomaster.io\LLD\SocialNetworklikeFacebook\obj\Debug\net10.0\SocialNetworklikeFacebook.AssemblyInfoInputs.cache
+D:\Study\Design Pattern\Algomaster.io\LLD\SocialNetworklikeFacebook\obj\Debug\net10.0\SocialNetworklikeFacebook.AssemblyInfo.cs
+D:\Study\Design Pattern\Algomaster.io\LLD\SocialNetworklikeFacebook\obj\Debug\net10.0\SocialNetworklikeFacebook.csproj.CoreCompileInputs.cache
+D:\Study\Design Pattern\Algomaster.io\LLD\SocialNetworklikeFacebook\bin\Debug\net10.0\SocialNetworklikeFacebook.exe
+D:\Study\Design Pattern\Algomaster.io\LLD\SocialNetworklikeFacebook\bin\Debug\net10.0\SocialNetworklikeFacebook.deps.json
+D:\Study\Design Pattern\Algomaster.io\LLD\SocialNetworklikeFacebook\bin\Debug\net10.0\SocialNetworklikeFacebook.runtimeconfig.json
+D:\Study\Design Pattern\Algomaster.io\LLD\SocialNetworklikeFacebook\bin\Debug\net10.0\SocialNetworklikeFacebook.dll
+D:\Study\Design Pattern\Algomaster.io\LLD\SocialNetworklikeFacebook\bin\Debug\net10.0\SocialNetworklikeFacebook.pdb
+D:\Study\Design Pattern\Algomaster.io\LLD\SocialNetworklikeFacebook\obj\Debug\net10.0\SocialNetworklikeFacebook.dll
+D:\Study\Design Pattern\Algomaster.io\LLD\SocialNetworklikeFacebook\obj\Debug\net10.0\refint\SocialNetworklikeFacebook.dll
+D:\Study\Design Pattern\Algomaster.io\LLD\SocialNetworklikeFacebook\obj\Debug\net10.0\SocialNetworklikeFacebook.pdb
+D:\Study\Design Pattern\Algomaster.io\LLD\SocialNetworklikeFacebook\obj\Debug\net10.0\SocialNetworklikeFacebook.genruntimeconfig.cache
+D:\Study\Design Pattern\Algomaster.io\LLD\SocialNetworklikeFacebook\obj\Debug\net10.0\ref\SocialNetworklikeFacebook.dll

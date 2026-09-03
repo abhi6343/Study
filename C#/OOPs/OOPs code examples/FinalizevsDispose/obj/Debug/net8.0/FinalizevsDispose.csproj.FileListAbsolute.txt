@@ -1,0 +1,14 @@
+E:\C#\OOPs\OOPs code examples\FinalizevsDispose\bin\Debug\net8.0\FinalizevsDispose.exe
+E:\C#\OOPs\OOPs code examples\FinalizevsDispose\bin\Debug\net8.0\FinalizevsDispose.deps.json
+E:\C#\OOPs\OOPs code examples\FinalizevsDispose\bin\Debug\net8.0\FinalizevsDispose.runtimeconfig.json
+E:\C#\OOPs\OOPs code examples\FinalizevsDispose\bin\Debug\net8.0\FinalizevsDispose.dll
+E:\C#\OOPs\OOPs code examples\FinalizevsDispose\bin\Debug\net8.0\FinalizevsDispose.pdb
+E:\C#\OOPs\OOPs code examples\FinalizevsDispose\obj\Debug\net8.0\FinalizevsDispose.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\OOPs\OOPs code examples\FinalizevsDispose\obj\Debug\net8.0\FinalizevsDispose.AssemblyInfoInputs.cache
+E:\C#\OOPs\OOPs code examples\FinalizevsDispose\obj\Debug\net8.0\FinalizevsDispose.AssemblyInfo.cs
+E:\C#\OOPs\OOPs code examples\FinalizevsDispose\obj\Debug\net8.0\FinalizevsDispose.csproj.CoreCompileInputs.cache
+E:\C#\OOPs\OOPs code examples\FinalizevsDispose\obj\Debug\net8.0\FinalizevsDispose.dll
+E:\C#\OOPs\OOPs code examples\FinalizevsDispose\obj\Debug\net8.0\refint\FinalizevsDispose.dll
+E:\C#\OOPs\OOPs code examples\FinalizevsDispose\obj\Debug\net8.0\FinalizevsDispose.pdb
+E:\C#\OOPs\OOPs code examples\FinalizevsDispose\obj\Debug\net8.0\FinalizevsDispose.genruntimeconfig.cache
+E:\C#\OOPs\OOPs code examples\FinalizevsDispose\obj\Debug\net8.0\ref\FinalizevsDispose.dll

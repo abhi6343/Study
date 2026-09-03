@@ -1,0 +1,14 @@
+E:\C#\LINQ\LINQ Code Examples\MinMethod\bin\Debug\net8.0\MinMethod.exe
+E:\C#\LINQ\LINQ Code Examples\MinMethod\bin\Debug\net8.0\MinMethod.deps.json
+E:\C#\LINQ\LINQ Code Examples\MinMethod\bin\Debug\net8.0\MinMethod.runtimeconfig.json
+E:\C#\LINQ\LINQ Code Examples\MinMethod\bin\Debug\net8.0\MinMethod.dll
+E:\C#\LINQ\LINQ Code Examples\MinMethod\bin\Debug\net8.0\MinMethod.pdb
+E:\C#\LINQ\LINQ Code Examples\MinMethod\obj\Debug\net8.0\MinMethod.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\LINQ\LINQ Code Examples\MinMethod\obj\Debug\net8.0\MinMethod.AssemblyInfoInputs.cache
+E:\C#\LINQ\LINQ Code Examples\MinMethod\obj\Debug\net8.0\MinMethod.AssemblyInfo.cs
+E:\C#\LINQ\LINQ Code Examples\MinMethod\obj\Debug\net8.0\MinMethod.csproj.CoreCompileInputs.cache
+E:\C#\LINQ\LINQ Code Examples\MinMethod\obj\Debug\net8.0\MinMethod.dll
+E:\C#\LINQ\LINQ Code Examples\MinMethod\obj\Debug\net8.0\refint\MinMethod.dll
+E:\C#\LINQ\LINQ Code Examples\MinMethod\obj\Debug\net8.0\MinMethod.pdb
+E:\C#\LINQ\LINQ Code Examples\MinMethod\obj\Debug\net8.0\MinMethod.genruntimeconfig.cache
+E:\C#\LINQ\LINQ Code Examples\MinMethod\obj\Debug\net8.0\ref\MinMethod.dll

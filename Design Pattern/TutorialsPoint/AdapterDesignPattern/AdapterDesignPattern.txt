@@ -1,0 +1,38 @@
+﻿Introduction
+1.	Adapter pattern works as a bridge between two incompatible interfaces. This type of design pattern
+	comes under structural pattern as this pattern combines the capability of two independent interfaces.
+
+2.	This pattern involves a single class which is responsible to join functionalities of independent or
+	incompatible interfaces. A real life example could be case of card reader which acts as an adapter
+	between memory card and a laptop. You plugin the memory card into card reader and card reader into
+	the laptop so that memory card can be read via laptop.
+
+3.	We are demonstrating use of Adapter pattern via following example in which an audio player device
+	can play mp3 files only and wants to use an advanced audio player capable of playing vlc and mp4 files.
+
+
+
+Implementation
+1.	We have a IMedia Player interface and a concrete class AudioPlayer implementing the IMediaPlayer
+	interface. AudioPlayer can play mp3 format audio files by default.
+
+2.	We are having another interface IAdvancedMediaPlayer and concrete classes implementing the 
+	IAdvancedMediaPlayer interface. These classes can play vlc and mp4 format files.
+
+3.	We want to make AudioPlayer to play other formats as well. To attain this, we have created an adapter
+	class MediaAdapter which implements the IMediaPlayer interface and uses IAdvancedmediaPlayer objects 
+	to play the required format.
+
+4.	AudioPlayer uses the adapter class MediaAdapter passing it the desired audio type without knowing the
+	actual class which can play the desired format. Program, our demo class, will use AudioPlayer class 
+	to play various formats.
+
+
+
+Required Steps for Implementation
+Step 1: Create interfaces for Media Player and Advanced Media Player: IMediaPlayer.cs, IAdvancedMediaPlayer.cs
+Step 2: Create concrete classes implementing the AdvancedMediaPlayer interface: VlcPlayer.cs, Mp4Player.cs
+Step 3: Create adapter class implementing the IMediaPlayer interface: MediaAdapter.cs
+Step 4: Create concrete class implementing the IMediaPlayer interface: AudioPlayer.cs
+Step 5: Use the AudioPlayer to play different types of audio formats: Program.cs
+Step 6: Verify the output.

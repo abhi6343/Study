@@ -1,0 +1,15 @@
+D:\Study\ASP.NET Core\WebApplication1\Services\bin\Debug\net11.0\Services.deps.json
+D:\Study\ASP.NET Core\WebApplication1\Services\bin\Debug\net11.0\Services.dll
+D:\Study\ASP.NET Core\WebApplication1\Services\bin\Debug\net11.0\Services.pdb
+D:\Study\ASP.NET Core\WebApplication1\Services\bin\Debug\net11.0\ServiceContracts.dll
+D:\Study\ASP.NET Core\WebApplication1\Services\bin\Debug\net11.0\ServiceContracts.pdb
+D:\Study\ASP.NET Core\WebApplication1\Services\obj\Debug\net11.0\Services.csproj.AssemblyReference.cache
+D:\Study\ASP.NET Core\WebApplication1\Services\obj\Debug\net11.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\ASP.NET Core\WebApplication1\Services\obj\Debug\net11.0\Services.AssemblyInfoInputs.cache
+D:\Study\ASP.NET Core\WebApplication1\Services\obj\Debug\net11.0\Services.AssemblyInfo.cs
+D:\Study\ASP.NET Core\WebApplication1\Services\obj\Debug\net11.0\Services.csproj.CoreCompileInputs.cache
+D:\Study\ASP.NET Core\WebApplication1\Services\obj\Debug\net11.0\Services.csproj.Up2Date
+D:\Study\ASP.NET Core\WebApplication1\Services\obj\Debug\net11.0\Services.dll
+D:\Study\ASP.NET Core\WebApplication1\Services\obj\Debug\net11.0\refint\Services.dll
+D:\Study\ASP.NET Core\WebApplication1\Services\obj\Debug\net11.0\Services.pdb
+D:\Study\ASP.NET Core\WebApplication1\Services\obj\Debug\net11.0\ref\Services.dll

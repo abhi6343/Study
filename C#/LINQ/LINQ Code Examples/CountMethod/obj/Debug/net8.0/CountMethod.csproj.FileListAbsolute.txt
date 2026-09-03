@@ -1,0 +1,14 @@
+E:\C#\LINQ\LINQ Code Examples\CountMethod\bin\Debug\net8.0\CountMethod.exe
+E:\C#\LINQ\LINQ Code Examples\CountMethod\bin\Debug\net8.0\CountMethod.deps.json
+E:\C#\LINQ\LINQ Code Examples\CountMethod\bin\Debug\net8.0\CountMethod.runtimeconfig.json
+E:\C#\LINQ\LINQ Code Examples\CountMethod\bin\Debug\net8.0\CountMethod.dll
+E:\C#\LINQ\LINQ Code Examples\CountMethod\bin\Debug\net8.0\CountMethod.pdb
+E:\C#\LINQ\LINQ Code Examples\CountMethod\obj\Debug\net8.0\CountMethod.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\LINQ\LINQ Code Examples\CountMethod\obj\Debug\net8.0\CountMethod.AssemblyInfoInputs.cache
+E:\C#\LINQ\LINQ Code Examples\CountMethod\obj\Debug\net8.0\CountMethod.AssemblyInfo.cs
+E:\C#\LINQ\LINQ Code Examples\CountMethod\obj\Debug\net8.0\CountMethod.csproj.CoreCompileInputs.cache
+E:\C#\LINQ\LINQ Code Examples\CountMethod\obj\Debug\net8.0\CountMethod.dll
+E:\C#\LINQ\LINQ Code Examples\CountMethod\obj\Debug\net8.0\refint\CountMethod.dll
+E:\C#\LINQ\LINQ Code Examples\CountMethod\obj\Debug\net8.0\CountMethod.pdb
+E:\C#\LINQ\LINQ Code Examples\CountMethod\obj\Debug\net8.0\CountMethod.genruntimeconfig.cache
+E:\C#\LINQ\LINQ Code Examples\CountMethod\obj\Debug\net8.0\ref\CountMethod.dll

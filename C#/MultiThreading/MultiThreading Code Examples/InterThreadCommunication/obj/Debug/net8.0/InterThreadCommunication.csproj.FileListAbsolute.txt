@@ -1,0 +1,14 @@
+C:\Users\Abhishek\Downloads\C#\MultiThreading\MultiThreading Code Examples\InterThreadCommunication\bin\Debug\net8.0\InterThreadCommunication.exe
+C:\Users\Abhishek\Downloads\C#\MultiThreading\MultiThreading Code Examples\InterThreadCommunication\bin\Debug\net8.0\InterThreadCommunication.deps.json
+C:\Users\Abhishek\Downloads\C#\MultiThreading\MultiThreading Code Examples\InterThreadCommunication\bin\Debug\net8.0\InterThreadCommunication.runtimeconfig.json
+C:\Users\Abhishek\Downloads\C#\MultiThreading\MultiThreading Code Examples\InterThreadCommunication\bin\Debug\net8.0\InterThreadCommunication.dll
+C:\Users\Abhishek\Downloads\C#\MultiThreading\MultiThreading Code Examples\InterThreadCommunication\bin\Debug\net8.0\InterThreadCommunication.pdb
+C:\Users\Abhishek\Downloads\C#\MultiThreading\MultiThreading Code Examples\InterThreadCommunication\obj\Debug\net8.0\InterThreadCommunication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abhishek\Downloads\C#\MultiThreading\MultiThreading Code Examples\InterThreadCommunication\obj\Debug\net8.0\InterThreadCommunication.AssemblyInfoInputs.cache
+C:\Users\Abhishek\Downloads\C#\MultiThreading\MultiThreading Code Examples\InterThreadCommunication\obj\Debug\net8.0\InterThreadCommunication.AssemblyInfo.cs
+C:\Users\Abhishek\Downloads\C#\MultiThreading\MultiThreading Code Examples\InterThreadCommunication\obj\Debug\net8.0\InterThreadCommunication.csproj.CoreCompileInputs.cache
+C:\Users\Abhishek\Downloads\C#\MultiThreading\MultiThreading Code Examples\InterThreadCommunication\obj\Debug\net8.0\InterThreadCommunication.dll
+C:\Users\Abhishek\Downloads\C#\MultiThreading\MultiThreading Code Examples\InterThreadCommunication\obj\Debug\net8.0\refint\InterThreadCommunication.dll
+C:\Users\Abhishek\Downloads\C#\MultiThreading\MultiThreading Code Examples\InterThreadCommunication\obj\Debug\net8.0\InterThreadCommunication.pdb
+C:\Users\Abhishek\Downloads\C#\MultiThreading\MultiThreading Code Examples\InterThreadCommunication\obj\Debug\net8.0\InterThreadCommunication.genruntimeconfig.cache
+C:\Users\Abhishek\Downloads\C#\MultiThreading\MultiThreading Code Examples\InterThreadCommunication\obj\Debug\net8.0\ref\InterThreadCommunication.dll

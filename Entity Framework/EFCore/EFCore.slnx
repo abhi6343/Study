@@ -1,0 +1,25 @@
+<Solution>
+  <Project Path="AsynchronousProgramming/AsynchronousProgramming.csproj" Id="63a88a41-4618-4823-aaad-c21acfee8fd9" />
+  <Project Path="BatchProcessingwithJobScheduler/BatchProcessingwithJobScheduler.csproj" Id="43797572-6b3e-4962-a73a-8034012330d8" />
+  <Project Path="BulkExtensionsvsZExtensionsvsStandardEFCore/BulkExtensionsvsZExtensionsvsStandardEFCore.csproj" Id="00b58508-35b4-4a80-8bb8-2c2d86f342bf" />
+  <Project Path="ConcurrencyCheckAttributeDemo/ConcurrencyCheckAttributeDemo.csproj" Id="b6dd21ab-d0f7-4fa2-adc0-c2ab834c8197" />
+  <Project Path="DefaultConvention/DefaultConvention.csproj" Id="456bab2d-e6c4-479e-af9f-9962cddf1740" />
+  <Project Path="DesignDBusingCodeFirst/DesignDBusingCodeFirst.csproj" Id="4cdb7a3d-1e9f-4275-8f72-ca456a876256" />
+  <Project Path="DisconnectedEntities/DisconnectedEntities.csproj" Id="fe37bb14-2b9b-4c0b-a9ff-dee226b8400d" />
+  <Project Path="DisconnectedEntityGraph/DisconnectedEntityGraph.csproj" Id="64480299-93cd-4359-bf5a-9eaf72d8453e" />
+  <Project Path="EFCore/EFCore.csproj" />
+  <Project Path="EFCoreBulkExtensionsDemo/EFCoreBulkExtensionsDemo.csproj" />
+  <Project Path="EntityConfigurationFluentAPI/EntityConfigurationFluentAPI.csproj" Id="4d817b58-8cdc-42a9-bc58-adbebbfcf7de" />
+  <Project Path="FluentInterfaceDesignPattern/FluentInterfaceDesignPattern.csproj" Id="b6a89960-260c-4bfe-957a-d0f4aa9ff198" />
+  <Project Path="ForeignKeyAttributeDemo/ForeignKeyAttributeDemo.csproj" Id="e30466d3-fd31-45ca-b44c-8530dc6ce924" />
+  <Project Path="Global ConfigurationFluentAPI/GlobalConfigurationFluentAPI.csproj" Id="0a77d391-4ead-4ec8-b450-56c04fc5f8e3" />
+  <Project Path="indexAttributeDemo/IndexAttributeDemo.csproj" Id="dbd327a1-6711-4b13-9b0f-e5128e0b1844" />
+  <Project Path="InversePropertyAttributeDemo/InversePropertyAttributeDemo.csproj" Id="fc24c39b-8d35-497b-a7c9-42aef42323f8" />
+  <Project Path="LINQtoEntities/LINQtoEntities.csproj" />
+  <Project Path="NonPrimaryKeyTable/NonPrimaryKeyTable.csproj" Id="f0d0e51d-5371-4ed1-8238-d201e3cfb7e2" />
+  <Project Path="NotMappedAttributeDemo/NotMappedAttributeDemo.csproj" Id="28ca4eaa-58c7-4794-bc67-1f590de45b26" />
+  <Project Path="PropertyConfigurationFluentAPI/PropertyConfigurationFluentAPI.csproj" Id="374c131a-1288-4b2f-97f8-ca70c1b58c4f" />
+  <Project Path="RequiredAttributeDemo/RequiredAttributeDemo.csproj" Id="7b0139c5-3d5f-4984-bd3d-d121d29f0deb" />
+  <Project Path="TableAttribute/TableAttributeDemo.csproj" Id="3be78296-e4dd-4b25-aee5-77a83e7ab7e4" />
+  <Project Path="ZExtensionsEFCoreDemo/ZExtensionsEFCoreDemo.csproj" />
+</Solution>

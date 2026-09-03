@@ -1,0 +1,12 @@
+D:\Study\ASP.NET Core\WebApplication1\Entities\bin\Debug\net11.0\Entities.deps.json
+D:\Study\ASP.NET Core\WebApplication1\Entities\bin\Debug\net11.0\Entities.dll
+D:\Study\ASP.NET Core\WebApplication1\Entities\bin\Debug\net11.0\Entities.pdb
+D:\Study\ASP.NET Core\WebApplication1\Entities\obj\Debug\net11.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\ASP.NET Core\WebApplication1\Entities\obj\Debug\net11.0\Entities.AssemblyInfoInputs.cache
+D:\Study\ASP.NET Core\WebApplication1\Entities\obj\Debug\net11.0\Entities.AssemblyInfo.cs
+D:\Study\ASP.NET Core\WebApplication1\Entities\obj\Debug\net11.0\Entities.csproj.CoreCompileInputs.cache
+D:\Study\ASP.NET Core\WebApplication1\Entities\obj\Debug\net11.0\Entities.dll
+D:\Study\ASP.NET Core\WebApplication1\Entities\obj\Debug\net11.0\refint\Entities.dll
+D:\Study\ASP.NET Core\WebApplication1\Entities\obj\Debug\net11.0\Entities.pdb
+D:\Study\ASP.NET Core\WebApplication1\Entities\obj\Debug\net11.0\ref\Entities.dll
+D:\Study\ASP.NET Core\WebApplication1\Entities\obj\Debug\net11.0\Entities.csproj.Up2Date

@@ -1,0 +1,27 @@
+﻿Introduction
+1.	Command pattern is a data driven design pattern and falls under behavioral pattern
+	category. A request is wrapped under an object as command and passed to invoker 
+	object. Invoker object looks for the appropriate object which can handle this 
+	command and passes the command to the corresponding object which executes it.
+
+
+
+Implementation
+1.	We have created an interface IOrder which is acting as a command. We have created
+	a Stock class which acts as a request. We have concrete command classes BuyStock
+	and SellStock implementing IOrder interface which will do actual command processing.
+	A class broker is created which acts as an invoker object. It can take and place orders.
+
+2.	Broker object uses command pattern to identify which object will execute which
+	command based on the type of command. Program, our demo class, will use Broker
+	class to demonstrate command pattern.
+
+
+
+Required steps for Implementation
+Step 1: Create a command interface: IOrder.cs
+Step 2: Create a request class: Stock.cs
+Step 3: Create concrete classes implementing the IOrder interface: BuyStock.cs, SellStock.cs
+Step 4: Create command invoker class: Broker.cs
+Step 5: Use the Broker class to take and execute commands: Program.cs
+Step 6: Verify the output.

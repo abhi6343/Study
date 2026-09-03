@@ -1,0 +1,14 @@
+C:\Users\Abhishek\source\repos\ParellelForLoop\bin\Debug\net8.0\ParellelForLoop.exe
+C:\Users\Abhishek\source\repos\ParellelForLoop\bin\Debug\net8.0\ParellelForLoop.deps.json
+C:\Users\Abhishek\source\repos\ParellelForLoop\bin\Debug\net8.0\ParellelForLoop.runtimeconfig.json
+C:\Users\Abhishek\source\repos\ParellelForLoop\bin\Debug\net8.0\ParellelForLoop.dll
+C:\Users\Abhishek\source\repos\ParellelForLoop\bin\Debug\net8.0\ParellelForLoop.pdb
+C:\Users\Abhishek\source\repos\ParellelForLoop\obj\Debug\net8.0\ParellelForLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abhishek\source\repos\ParellelForLoop\obj\Debug\net8.0\ParellelForLoop.AssemblyInfoInputs.cache
+C:\Users\Abhishek\source\repos\ParellelForLoop\obj\Debug\net8.0\ParellelForLoop.AssemblyInfo.cs
+C:\Users\Abhishek\source\repos\ParellelForLoop\obj\Debug\net8.0\ParellelForLoop.csproj.CoreCompileInputs.cache
+C:\Users\Abhishek\source\repos\ParellelForLoop\obj\Debug\net8.0\ParellelForLoop.dll
+C:\Users\Abhishek\source\repos\ParellelForLoop\obj\Debug\net8.0\refint\ParellelForLoop.dll
+C:\Users\Abhishek\source\repos\ParellelForLoop\obj\Debug\net8.0\ParellelForLoop.pdb
+C:\Users\Abhishek\source\repos\ParellelForLoop\obj\Debug\net8.0\ParellelForLoop.genruntimeconfig.cache
+C:\Users\Abhishek\source\repos\ParellelForLoop\obj\Debug\net8.0\ref\ParellelForLoop.dll

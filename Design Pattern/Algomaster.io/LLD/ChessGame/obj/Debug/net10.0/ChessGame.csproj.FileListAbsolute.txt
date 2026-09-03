@@ -1,0 +1,14 @@
+D:\Study\Design Pattern\Algomaster.io\LLD\ChessGame\obj\Debug\net10.0\ChessGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\Design Pattern\Algomaster.io\LLD\ChessGame\obj\Debug\net10.0\ChessGame.AssemblyInfoInputs.cache
+D:\Study\Design Pattern\Algomaster.io\LLD\ChessGame\obj\Debug\net10.0\ChessGame.AssemblyInfo.cs
+D:\Study\Design Pattern\Algomaster.io\LLD\ChessGame\obj\Debug\net10.0\ChessGame.csproj.CoreCompileInputs.cache
+D:\Study\Design Pattern\Algomaster.io\LLD\ChessGame\bin\Debug\net10.0\ChessGame.exe
+D:\Study\Design Pattern\Algomaster.io\LLD\ChessGame\bin\Debug\net10.0\ChessGame.deps.json
+D:\Study\Design Pattern\Algomaster.io\LLD\ChessGame\bin\Debug\net10.0\ChessGame.runtimeconfig.json
+D:\Study\Design Pattern\Algomaster.io\LLD\ChessGame\bin\Debug\net10.0\ChessGame.dll
+D:\Study\Design Pattern\Algomaster.io\LLD\ChessGame\bin\Debug\net10.0\ChessGame.pdb
+D:\Study\Design Pattern\Algomaster.io\LLD\ChessGame\obj\Debug\net10.0\ChessGame.dll
+D:\Study\Design Pattern\Algomaster.io\LLD\ChessGame\obj\Debug\net10.0\refint\ChessGame.dll
+D:\Study\Design Pattern\Algomaster.io\LLD\ChessGame\obj\Debug\net10.0\ChessGame.pdb
+D:\Study\Design Pattern\Algomaster.io\LLD\ChessGame\obj\Debug\net10.0\ChessGame.genruntimeconfig.cache
+D:\Study\Design Pattern\Algomaster.io\LLD\ChessGame\obj\Debug\net10.0\ref\ChessGame.dll

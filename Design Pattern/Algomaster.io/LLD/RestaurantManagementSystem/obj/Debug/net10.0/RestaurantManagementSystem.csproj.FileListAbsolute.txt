@@ -1,0 +1,14 @@
+D:\Study\Design Pattern\Algomaster.io\LLD\RestaurantManagementSystem\obj\Debug\net10.0\RestaurantManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\Design Pattern\Algomaster.io\LLD\RestaurantManagementSystem\obj\Debug\net10.0\RestaurantManagementSystem.AssemblyInfoInputs.cache
+D:\Study\Design Pattern\Algomaster.io\LLD\RestaurantManagementSystem\obj\Debug\net10.0\RestaurantManagementSystem.AssemblyInfo.cs
+D:\Study\Design Pattern\Algomaster.io\LLD\RestaurantManagementSystem\obj\Debug\net10.0\RestaurantManagementSystem.csproj.CoreCompileInputs.cache
+D:\Study\Design Pattern\Algomaster.io\LLD\RestaurantManagementSystem\bin\Debug\net10.0\RestaurantManagementSystem.exe
+D:\Study\Design Pattern\Algomaster.io\LLD\RestaurantManagementSystem\bin\Debug\net10.0\RestaurantManagementSystem.deps.json
+D:\Study\Design Pattern\Algomaster.io\LLD\RestaurantManagementSystem\bin\Debug\net10.0\RestaurantManagementSystem.runtimeconfig.json
+D:\Study\Design Pattern\Algomaster.io\LLD\RestaurantManagementSystem\bin\Debug\net10.0\RestaurantManagementSystem.dll
+D:\Study\Design Pattern\Algomaster.io\LLD\RestaurantManagementSystem\bin\Debug\net10.0\RestaurantManagementSystem.pdb
+D:\Study\Design Pattern\Algomaster.io\LLD\RestaurantManagementSystem\obj\Debug\net10.0\RestaurantManagementSystem.dll
+D:\Study\Design Pattern\Algomaster.io\LLD\RestaurantManagementSystem\obj\Debug\net10.0\refint\RestaurantManagementSystem.dll
+D:\Study\Design Pattern\Algomaster.io\LLD\RestaurantManagementSystem\obj\Debug\net10.0\RestaurantManagementSystem.pdb
+D:\Study\Design Pattern\Algomaster.io\LLD\RestaurantManagementSystem\obj\Debug\net10.0\RestaurantManagementSystem.genruntimeconfig.cache
+D:\Study\Design Pattern\Algomaster.io\LLD\RestaurantManagementSystem\obj\Debug\net10.0\ref\RestaurantManagementSystem.dll

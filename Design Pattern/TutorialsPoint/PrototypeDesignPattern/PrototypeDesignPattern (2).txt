@@ -1,0 +1,29 @@
+﻿Introduction
+1.	Prototype pattern refers to creating duplicate object while keeping performance in
+	mind. This type of design pattern comes under creational design pattern as this pattern
+	provides one of the best ways to create an object.
+
+2.	This pattern involves implementing a prototype interface which tells to create a clone
+	of the current object. This pattern is used when creation of object directly is costly. 
+	For example, an object is to be created after a costly database operation. We can cache 
+	the object, return its clone on next request and update the database as and when needed 
+	thus reducing database calls.
+
+
+
+Implementation 
+1.	We are going to create an abstract class Shape and concrete classes extending the Shape 
+	class. A class ShapeCache is defined as a next step which stores Shape objects in a 
+	Hashtable and returns their clone when requested.
+
+2.	Program, our demo class, will use ShapeCache class to get a Shape object.
+
+
+
+Required Steps for Implementation
+Step 1: Create an abstract class implementing IClonable interface: Shape.cs
+Step 2: Create concrete classes extending the above class: Rectangle.cs, Square.cs, Circle.cs
+Step 3: Create a class to get concrete classes from database and store them in a Hashtable: 
+		ShapeCache.cs
+Step 4: Program uses ShapeCache class to get clones of shapes stored in a hashtable: Program.cs
+Step 5: Verify the output. 

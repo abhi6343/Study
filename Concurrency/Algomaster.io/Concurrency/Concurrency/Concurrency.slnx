@@ -1,0 +1,11 @@
+<Solution>
+  <Project Path="../BoundedBuffer/BoundedBuffer.csproj" Id="f50e64bc-6fc7-4263-a9ff-8916cd34051b" />
+  <Project Path="../BuildingH2OMolecule/BuildingH2OMolecule.csproj" Id="465479dd-bee9-42d7-85b3-8ebd9302fb37" />
+  <Project Path="../FizzBuzz/PrintFizzBuzz.csproj" Id="2830ec9b-23f2-4bd9-b274-a8e155031452" />
+  <Project Path="../PrintFooBar/PrintFooBar.csproj" />
+  <Project Path="../PrintZeroEvenOdd/PrintZeroEvenOdd.csproj" Id="83b0e323-0520-4055-9e7c-0754d815aefb" />
+  <Project Path="../ReadersWritersProblem/ReadersWritersProblem.csproj" Id="61845ee0-3180-4a7c-bea9-64a4445a72eb" />
+  <Project Path="../SleepingBarber/SleepingBarber.csproj" Id="a8bfb380-3070-4aa6-80e4-29304b9e4fd6" />
+  <Project Path="../UnisexBathroom/UnisexBathroom.csproj" Id="6aaec71c-fd3d-44a5-9f83-e6809f43950d" />
+  <Project Path="Concurrency/Concurrency.csproj" />
+</Solution>

@@ -1,0 +1,47 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model PersonGridModel
+<div class="box">
+	@* <h3>Grid</h3>
+	<table class="table w-100">
+		<thead>
+			<tr>
+				<th>Sl. No</th>
+				<th>Name</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td>1</td>
+				<td>One</td>
+			</tr>
+			<tr>
+				<td>2</td>
+				<td>Two</td>
+			</tr>
+		</tbody>
+	</table> *@
+	@* <h3>@ViewBag.Grid.GridTitle</h3> *@
+	<h3>@Model.GridTitle</h3>
+	<table class="table w-100">
+		<thead>
+			<tr>
+				<th>Sl. No</th>
+				<th>Name</th>
+			</tr>
+		</thead>
+		<tbody>
+			@* @foreach (var p in ViewBag.Grid.Persons) *@
+			@foreach (var p in Model.Persons)
+			{
+				<tr>
+					<td>@p.Name</td>
+					<td>@p.JobTitle</td>
+				</tr>
+			}
+		</tbody>
+	</table>
+</div>

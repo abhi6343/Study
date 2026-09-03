@@ -1,0 +1,33 @@
+<Solution>
+  <Project Path="CarRentalSystem/CarRentalSystem.csproj" Id="77edd320-aab2-4d7b-a6dd-18aa7ea7ff64" />
+  <Project Path="ChatApplication/ChatApplication.csproj" Id="964b9c9b-7714-4748-ab05-71dc709abc58" />
+  <Project Path="ChessGame/ChessGame.csproj" Id="22a718f4-c717-49f7-86d1-66f119fcf726" />
+  <Project Path="D:/Study/Design Pattern/Algomaster.io/LLD/ATM/ATM.csproj" Id="7d2d97c2-472c-4690-b90f-c4de282a8f46" />
+  <Project Path="D:/Study/Design Pattern/Algomaster.io/LLD/BloomFilter/BloomFilter.csproj" />
+  <Project Path="D:/Study/Design Pattern/Algomaster.io/LLD/LLD/LLD.csproj" />
+  <Project Path="D:/Study/Design Pattern/Algomaster.io/LLD/LRUCache/LRUCache.csproj" />
+  <Project Path="D:/Study/Design Pattern/Algomaster.io/LLD/NotificationSystem/NotificationSystem.csproj" Id="e500092e-543c-4a58-9d8c-6caa82880c01" />
+  <Project Path="D:/Study/Design Pattern/Algomaster.io/LLD/ParkingLot/ParkingLot.csproj" Id="10d4eb69-2b48-41cd-ab3b-6b3e2fbbc856" />
+  <Project Path="D:/Study/Design Pattern/Algomaster.io/LLD/SearchAutocompleteSystem/SearchAutocompleteSystem.csproj" Id="0cfe95c0-7acd-4563-a790-1d6efc7d1677" />
+  <Project Path="D:/Study/Design Pattern/Algomaster.io/LLD/SnakeLadderGame/SnakeLadderGame.csproj" />
+  <Project Path="D:/Study/Design Pattern/Algomaster.io/LLD/StackOverflow/StackOverflow.csproj" Id="32420b52-4104-4c61-9cc5-f54e8f83d079" />
+  <Project Path="D:/Study/Design Pattern/Algomaster.io/LLD/TaskManagementSystem/TaskManagementSystem.csproj" Id="482ddd01-73e0-4930-8072-682993d2f696" />
+  <Project Path="D:/Study/Design Pattern/Algomaster.io/LLD/TicTacToe/TicTacToe.csproj" />
+  <Project Path="DesignRideHailingServicelikeUber/RideHailingServicelikeUber.csproj" Id="6a34b515-9e61-477d-b7eb-7f6bbce4068d" />
+  <Project Path="ElevatorSystem/ElevatorSystem.csproj" Id="7f2a8af6-d806-4506-94a5-02929564fb88" />
+  <Project Path="InMemoryFileSystem/InMemoryFileSystem.csproj" Id="79c57108-d8e8-4c9a-bdf6-4e667a36fe3b" />
+  <Project Path="LibraryManagementSystem/LibraryManagementSystem.csproj" Id="f8f995a9-32c5-4b66-8161-a738eebc11a2" />
+  <Project Path="LoggingFramework/LoggingFramework.csproj" Id="ed1ae9ab-4d28-4f75-9bdc-81487066b54a" />
+  <Project Path="MinesweeperGame/MinesweeperGame.csproj" Id="08bbd28c-2489-4b88-8172-5b8c0b08f833" />
+  <Project Path="PaymentGateway/PaymentGateway.csproj" Id="7b1eaa6b-7823-4ac8-9a24-687ad5f6f626" />
+  <Project Path="PubSubSystem/PubSubSystem.csproj" Id="339dee9b-62c5-4e20-8174-708a0af63e9a" />
+  <Project Path="RateLimiter/RateLimiter.csproj" Id="f1b3a8c2-2c66-44f5-9e7a-7b3655f7c37b" />
+  <Project Path="RestaurantManagementSystem/RestaurantManagementSystem.csproj" Id="7d3b2577-2925-4dc9-9b67-0639288e57f4" />
+  <Project Path="SimpleSearchEngine/SimpleSearchEngine.csproj" Id="1f8a793c-14aa-4ed1-ba64-dfad63ab5068" />
+  <Project Path="SocialNetworklikeFacebook/SocialNetworklikeFacebook.csproj" Id="15c88816-01f8-43b4-8cfd-3bba0d9d7489" />
+  <Project Path="Splitwise/Splitwise.csproj" Id="3afe3ceb-3ac1-42c5-a78c-8248b63b1115" />
+  <Project Path="TaskScheduler/TaskScheduler.csproj" Id="c45a0748-930e-429e-b5a9-c93bf98df5f9" />
+  <Project Path="URLShortener/URLShortener.csproj" Id="29ec3cb9-be40-4e3e-b0b1-56f842339202" />
+  <Project Path="VendingMachine/VendingMachine.csproj" Id="113b6876-e843-4f56-87a0-e434360b2a7b" />
+  <Project Path="VersionControlSystem/VersionControlSystem.csproj" Id="8d78612b-af7b-4492-ba19-753ed8632a74" />
+</Solution>

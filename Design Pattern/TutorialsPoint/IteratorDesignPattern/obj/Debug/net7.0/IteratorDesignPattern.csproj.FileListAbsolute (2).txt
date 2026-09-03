@@ -1,0 +1,15 @@
+C:\Users\abhishek\source\repos\IteratorDesignPattern\obj\Debug\net7.0\IteratorDesignPattern.csproj.AssemblyReference.cache
+C:\Users\abhishek\source\repos\IteratorDesignPattern\obj\Debug\net7.0\IteratorDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abhishek\source\repos\IteratorDesignPattern\obj\Debug\net7.0\IteratorDesignPattern.AssemblyInfoInputs.cache
+C:\Users\abhishek\source\repos\IteratorDesignPattern\obj\Debug\net7.0\IteratorDesignPattern.AssemblyInfo.cs
+C:\Users\abhishek\source\repos\IteratorDesignPattern\obj\Debug\net7.0\IteratorDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\abhishek\source\repos\IteratorDesignPattern\bin\Debug\net7.0\IteratorDesignPattern.exe
+C:\Users\abhishek\source\repos\IteratorDesignPattern\bin\Debug\net7.0\IteratorDesignPattern.deps.json
+C:\Users\abhishek\source\repos\IteratorDesignPattern\bin\Debug\net7.0\IteratorDesignPattern.runtimeconfig.json
+C:\Users\abhishek\source\repos\IteratorDesignPattern\bin\Debug\net7.0\IteratorDesignPattern.dll
+C:\Users\abhishek\source\repos\IteratorDesignPattern\bin\Debug\net7.0\IteratorDesignPattern.pdb
+C:\Users\abhishek\source\repos\IteratorDesignPattern\obj\Debug\net7.0\IteratorDesignPattern.dll
+C:\Users\abhishek\source\repos\IteratorDesignPattern\obj\Debug\net7.0\refint\IteratorDesignPattern.dll
+C:\Users\abhishek\source\repos\IteratorDesignPattern\obj\Debug\net7.0\IteratorDesignPattern.pdb
+C:\Users\abhishek\source\repos\IteratorDesignPattern\obj\Debug\net7.0\IteratorDesignPattern.genruntimeconfig.cache
+C:\Users\abhishek\source\repos\IteratorDesignPattern\obj\Debug\net7.0\ref\IteratorDesignPattern.dll

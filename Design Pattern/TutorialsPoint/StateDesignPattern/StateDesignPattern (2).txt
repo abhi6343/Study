@@ -1,0 +1,23 @@
+﻿Introduction
+1.	In State pattern, a class behavior changes based on its state. This type of design
+	pattern comes under behavior pattern.
+
+2.	In State pattern, we create objects which represent various state and a context
+	object whose behavior varies as its state object changes.
+
+
+
+Implementation
+1.	We are going to create an IState interface defining an action and state classes
+	implementing the IState interface. Context is a class which carries an IState.
+
+2.	Program, our demo class, will use Context and IState objects to demonstrate change
+	in Context behavior based on type of state it is in.
+
+
+Required Steps for Implementation
+Step 1: Create an interface: IState.cs
+Step 2: Create concrete classes implementing the same interface: StartState.cs, StopState.cs
+Step 3: Create Context class: Context.cs
+Step 4: Use the COntext to see change in behavior when State changes: Program.cs
+Step 5: Verify the output.

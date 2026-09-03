@@ -1,0 +1,15 @@
+D:\Study\ASP.NET Core\WebApplication1\ServiceContractsxUnit\bin\Debug\net11.0\ServiceContractsxUnit.deps.json
+D:\Study\ASP.NET Core\WebApplication1\ServiceContractsxUnit\bin\Debug\net11.0\ServiceContractsxUnit.dll
+D:\Study\ASP.NET Core\WebApplication1\ServiceContractsxUnit\bin\Debug\net11.0\ServiceContractsxUnit.pdb
+D:\Study\ASP.NET Core\WebApplication1\ServiceContractsxUnit\bin\Debug\net11.0\Entities.dll
+D:\Study\ASP.NET Core\WebApplication1\ServiceContractsxUnit\bin\Debug\net11.0\Entities.pdb
+D:\Study\ASP.NET Core\WebApplication1\ServiceContractsxUnit\obj\Debug\net11.0\ServiceContractsxUnit.csproj.AssemblyReference.cache
+D:\Study\ASP.NET Core\WebApplication1\ServiceContractsxUnit\obj\Debug\net11.0\ServiceContractsxUnit.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\ASP.NET Core\WebApplication1\ServiceContractsxUnit\obj\Debug\net11.0\ServiceContractsxUnit.AssemblyInfoInputs.cache
+D:\Study\ASP.NET Core\WebApplication1\ServiceContractsxUnit\obj\Debug\net11.0\ServiceContractsxUnit.AssemblyInfo.cs
+D:\Study\ASP.NET Core\WebApplication1\ServiceContractsxUnit\obj\Debug\net11.0\ServiceContractsxUnit.csproj.CoreCompileInputs.cache
+D:\Study\ASP.NET Core\WebApplication1\ServiceContractsxUnit\obj\Debug\net11.0\ServiceC.B5E9F586.Up2Date
+D:\Study\ASP.NET Core\WebApplication1\ServiceContractsxUnit\obj\Debug\net11.0\ServiceContractsxUnit.dll
+D:\Study\ASP.NET Core\WebApplication1\ServiceContractsxUnit\obj\Debug\net11.0\refint\ServiceContractsxUnit.dll
+D:\Study\ASP.NET Core\WebApplication1\ServiceContractsxUnit\obj\Debug\net11.0\ServiceContractsxUnit.pdb
+D:\Study\ASP.NET Core\WebApplication1\ServiceContractsxUnit\obj\Debug\net11.0\ref\ServiceContractsxUnit.dll

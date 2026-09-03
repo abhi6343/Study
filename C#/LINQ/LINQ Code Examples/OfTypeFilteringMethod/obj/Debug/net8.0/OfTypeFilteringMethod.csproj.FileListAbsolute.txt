@@ -1,0 +1,14 @@
+E:\C#\LINQ\LINQ Code Examples\OfTypeFilteringMethod\bin\Debug\net8.0\OfTypeFilteringMethod.exe
+E:\C#\LINQ\LINQ Code Examples\OfTypeFilteringMethod\bin\Debug\net8.0\OfTypeFilteringMethod.deps.json
+E:\C#\LINQ\LINQ Code Examples\OfTypeFilteringMethod\bin\Debug\net8.0\OfTypeFilteringMethod.runtimeconfig.json
+E:\C#\LINQ\LINQ Code Examples\OfTypeFilteringMethod\bin\Debug\net8.0\OfTypeFilteringMethod.dll
+E:\C#\LINQ\LINQ Code Examples\OfTypeFilteringMethod\bin\Debug\net8.0\OfTypeFilteringMethod.pdb
+E:\C#\LINQ\LINQ Code Examples\OfTypeFilteringMethod\obj\Debug\net8.0\OfTypeFilteringMethod.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\LINQ\LINQ Code Examples\OfTypeFilteringMethod\obj\Debug\net8.0\OfTypeFilteringMethod.AssemblyInfoInputs.cache
+E:\C#\LINQ\LINQ Code Examples\OfTypeFilteringMethod\obj\Debug\net8.0\OfTypeFilteringMethod.AssemblyInfo.cs
+E:\C#\LINQ\LINQ Code Examples\OfTypeFilteringMethod\obj\Debug\net8.0\OfTypeFilteringMethod.csproj.CoreCompileInputs.cache
+E:\C#\LINQ\LINQ Code Examples\OfTypeFilteringMethod\obj\Debug\net8.0\OfTypeFilteringMethod.dll
+E:\C#\LINQ\LINQ Code Examples\OfTypeFilteringMethod\obj\Debug\net8.0\refint\OfTypeFilteringMethod.dll
+E:\C#\LINQ\LINQ Code Examples\OfTypeFilteringMethod\obj\Debug\net8.0\OfTypeFilteringMethod.pdb
+E:\C#\LINQ\LINQ Code Examples\OfTypeFilteringMethod\obj\Debug\net8.0\OfTypeFilteringMethod.genruntimeconfig.cache
+E:\C#\LINQ\LINQ Code Examples\OfTypeFilteringMethod\obj\Debug\net8.0\ref\OfTypeFilteringMethod.dll

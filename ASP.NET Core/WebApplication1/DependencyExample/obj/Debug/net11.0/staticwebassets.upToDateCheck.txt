@@ -1,0 +1,2 @@
+D:\Study\ASP.NET Core\WebApplication1\DependencyExample\wwwroot\StyleSheet.css
+wwwroot\StyleSheet.css

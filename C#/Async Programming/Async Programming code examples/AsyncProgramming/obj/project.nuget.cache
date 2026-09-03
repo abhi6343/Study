@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "0tTMxbcY0rE=",
+  "success": true,
+  "projectFilePath": "D:\\Study\\C#\\Async Programming\\Async Programming code examples\\AsyncProgramming\\AsyncProgramming.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gupta\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.24\\microsoft.windowsdesktop.app.ref.8.0.24.nupkg.sha512",
+    "C:\\Users\\gupta\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.24\\microsoft.netcore.app.ref.8.0.24.nupkg.sha512",
+    "C:\\Users\\gupta\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.24\\microsoft.aspnetcore.app.ref.8.0.24.nupkg.sha512",
+    "C:\\Users\\gupta\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.24\\microsoft.netcore.app.host.win-x64.8.0.24.nupkg.sha512"
+  ],
+  "logs": []
+}

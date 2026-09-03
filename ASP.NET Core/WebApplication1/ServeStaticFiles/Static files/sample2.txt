@@ -1,0 +1,1 @@
+This is new sample file for ASP.NET Core

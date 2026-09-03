@@ -1,0 +1,14 @@
+E:\C#\OOPs\OOPs code examples\OOPs\bin\Debug\net8.0\OOPs.exe
+E:\C#\OOPs\OOPs code examples\OOPs\bin\Debug\net8.0\OOPs.deps.json
+E:\C#\OOPs\OOPs code examples\OOPs\bin\Debug\net8.0\OOPs.runtimeconfig.json
+E:\C#\OOPs\OOPs code examples\OOPs\bin\Debug\net8.0\OOPs.dll
+E:\C#\OOPs\OOPs code examples\OOPs\bin\Debug\net8.0\OOPs.pdb
+E:\C#\OOPs\OOPs code examples\OOPs\obj\Debug\net8.0\OOPs.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\OOPs\OOPs code examples\OOPs\obj\Debug\net8.0\OOPs.AssemblyInfoInputs.cache
+E:\C#\OOPs\OOPs code examples\OOPs\obj\Debug\net8.0\OOPs.AssemblyInfo.cs
+E:\C#\OOPs\OOPs code examples\OOPs\obj\Debug\net8.0\OOPs.csproj.CoreCompileInputs.cache
+E:\C#\OOPs\OOPs code examples\OOPs\obj\Debug\net8.0\OOPs.dll
+E:\C#\OOPs\OOPs code examples\OOPs\obj\Debug\net8.0\refint\OOPs.dll
+E:\C#\OOPs\OOPs code examples\OOPs\obj\Debug\net8.0\OOPs.pdb
+E:\C#\OOPs\OOPs code examples\OOPs\obj\Debug\net8.0\OOPs.genruntimeconfig.cache
+E:\C#\OOPs\OOPs code examples\OOPs\obj\Debug\net8.0\ref\OOPs.dll

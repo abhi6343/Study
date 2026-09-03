@@ -1,0 +1,12 @@
+D:\Study\ASP.NET Core\WebApplication1\ServiceContracts\bin\Debug\net11.0\ServiceContracts.deps.json
+D:\Study\ASP.NET Core\WebApplication1\ServiceContracts\bin\Debug\net11.0\ServiceContracts.dll
+D:\Study\ASP.NET Core\WebApplication1\ServiceContracts\bin\Debug\net11.0\ServiceContracts.pdb
+D:\Study\ASP.NET Core\WebApplication1\ServiceContracts\obj\Debug\net11.0\ServiceContracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\ASP.NET Core\WebApplication1\ServiceContracts\obj\Debug\net11.0\ServiceContracts.AssemblyInfoInputs.cache
+D:\Study\ASP.NET Core\WebApplication1\ServiceContracts\obj\Debug\net11.0\ServiceContracts.AssemblyInfo.cs
+D:\Study\ASP.NET Core\WebApplication1\ServiceContracts\obj\Debug\net11.0\ServiceContracts.csproj.CoreCompileInputs.cache
+D:\Study\ASP.NET Core\WebApplication1\ServiceContracts\obj\Debug\net11.0\ServiceContracts.dll
+D:\Study\ASP.NET Core\WebApplication1\ServiceContracts\obj\Debug\net11.0\refint\ServiceContracts.dll
+D:\Study\ASP.NET Core\WebApplication1\ServiceContracts\obj\Debug\net11.0\ServiceContracts.pdb
+D:\Study\ASP.NET Core\WebApplication1\ServiceContracts\obj\Debug\net11.0\ref\ServiceContracts.dll
+D:\Study\ASP.NET Core\WebApplication1\ServiceContracts\obj\Debug\net11.0\ServiceC.04662A29.Up2Date

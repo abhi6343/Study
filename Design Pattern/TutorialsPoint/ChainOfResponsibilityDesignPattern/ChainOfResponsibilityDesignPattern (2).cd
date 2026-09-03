@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ChainOfResponsibilityDesignPattern.AbstractLogger" Collapsed="true">
+    <Position X="2.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABgAAAAAAAAgAAAQAAAAEAAAAAAQAABAAAAAA=</HashCode>
+      <FileName>AbstractLogger.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChainOfResponsibilityDesignPattern.ConsoleLogger" Collapsed="true">
+    <Position X="2.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>ConsoleLogger.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChainOfResponsibilityDesignPattern.ErrorLogger" Collapsed="true">
+    <Position X="0.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>ErrorLogger.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChainOfResponsibilityDesignPattern.FileLogger" Collapsed="true">
+    <Position X="5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>FileLogger.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

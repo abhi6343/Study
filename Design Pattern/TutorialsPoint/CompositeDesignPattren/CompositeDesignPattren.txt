@@ -1,0 +1,24 @@
+﻿Introduction
+1.	Composite pattern is used where we need to treat a group of objects in similar way as a
+	single object. Composite pattern composes objects in term of a tree structure to represent
+	part as well as whole hierarchy. This type of design pattern comes under structural pattern 
+	as this pattern creates a tree structure of a group of objects.
+
+2.	This pattern creates a class that contains a group of its own objects. This class provides
+	ways to modify its group of same objects.
+
+3.	We are demonstrating use of composite pattern via following example in which we will show 
+	employees hierarchy of an organization. 
+
+
+
+Implementation 
+1.	We have a class Employee which acts as composite pattern actor class. Program, our demo class,
+	will use employee class to add department level hierarchy and print all employees.
+
+
+
+Required Steps for Implementation
+Step 1: Create Employee class having list of Employee objects: Employee.cs
+Step 2: Use the Employee class to create and print employee hierarchy: Program.cs
+Step 3: Verify the output.

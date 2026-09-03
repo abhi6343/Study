@@ -1,0 +1,15 @@
+C:\Users\abhishek\source\repos\FlyWeightDesignPattern\bin\Debug\net7.0\FlyWeightDesignPattern.exe
+C:\Users\abhishek\source\repos\FlyWeightDesignPattern\bin\Debug\net7.0\FlyWeightDesignPattern.deps.json
+C:\Users\abhishek\source\repos\FlyWeightDesignPattern\bin\Debug\net7.0\FlyWeightDesignPattern.runtimeconfig.json
+C:\Users\abhishek\source\repos\FlyWeightDesignPattern\bin\Debug\net7.0\FlyWeightDesignPattern.dll
+C:\Users\abhishek\source\repos\FlyWeightDesignPattern\bin\Debug\net7.0\FlyWeightDesignPattern.pdb
+C:\Users\abhishek\source\repos\FlyWeightDesignPattern\obj\Debug\net7.0\FlyWeightDesignPattern.csproj.AssemblyReference.cache
+C:\Users\abhishek\source\repos\FlyWeightDesignPattern\obj\Debug\net7.0\FlyWeightDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abhishek\source\repos\FlyWeightDesignPattern\obj\Debug\net7.0\FlyWeightDesignPattern.AssemblyInfoInputs.cache
+C:\Users\abhishek\source\repos\FlyWeightDesignPattern\obj\Debug\net7.0\FlyWeightDesignPattern.AssemblyInfo.cs
+C:\Users\abhishek\source\repos\FlyWeightDesignPattern\obj\Debug\net7.0\FlyWeightDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\abhishek\source\repos\FlyWeightDesignPattern\obj\Debug\net7.0\FlyWeightDesignPattern.dll
+C:\Users\abhishek\source\repos\FlyWeightDesignPattern\obj\Debug\net7.0\refint\FlyWeightDesignPattern.dll
+C:\Users\abhishek\source\repos\FlyWeightDesignPattern\obj\Debug\net7.0\FlyWeightDesignPattern.pdb
+C:\Users\abhishek\source\repos\FlyWeightDesignPattern\obj\Debug\net7.0\FlyWeightDesignPattern.genruntimeconfig.cache
+C:\Users\abhishek\source\repos\FlyWeightDesignPattern\obj\Debug\net7.0\ref\FlyWeightDesignPattern.dll
