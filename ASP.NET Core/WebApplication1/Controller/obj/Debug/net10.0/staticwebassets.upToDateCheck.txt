@@ -1,9 +1,0 @@
-wwwroot\sample3.txt
-wwwroot\Samples\reena.pdf
-wwwroot\Samples\sample.txt
-wwwroot\Samples\sample2.txt
-wwwroot\Samples\sample3.txt
-D:\Study\ASP.NET Core\WebApplication1\Controller\wwwroot\sample3.txt
-D:\Study\ASP.NET Core\WebApplication1\Controller\wwwroot\Samples\sample.txt
-D:\Study\ASP.NET Core\WebApplication1\Controller\wwwroot\Samples\sample2.txt
-D:\Study\ASP.NET Core\WebApplication1\Controller\wwwroot\Samples\sample3.txt

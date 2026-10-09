@@ -1,7 +1,0 @@
-C:\Users\Abhishek\Downloads\C#\MultiThreading\MultiThreading Code Examples\AbortThread\bin\Debug\AbortThread.exe.config
-C:\Users\Abhishek\Downloads\C#\MultiThreading\MultiThreading Code Examples\AbortThread\bin\Debug\AbortThread.exe
-C:\Users\Abhishek\Downloads\C#\MultiThreading\MultiThreading Code Examples\AbortThread\bin\Debug\AbortThread.pdb
-C:\Users\Abhishek\Downloads\C#\MultiThreading\MultiThreading Code Examples\AbortThread\obj\Debug\AbortThread.csproj.AssemblyReference.cache
-C:\Users\Abhishek\Downloads\C#\MultiThreading\MultiThreading Code Examples\AbortThread\obj\Debug\AbortThread.csproj.CoreCompileInputs.cache
-C:\Users\Abhishek\Downloads\C#\MultiThreading\MultiThreading Code Examples\AbortThread\obj\Debug\AbortThread.exe
-C:\Users\Abhishek\Downloads\C#\MultiThreading\MultiThreading Code Examples\AbortThread\obj\Debug\AbortThread.pdb

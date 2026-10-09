@@ -1,2 +1,0 @@
-wwwroot\StyleSheet.css
-D:\Study\ASP.NET Core\WebApplication1\Views\wwwroot\StyleSheet.css

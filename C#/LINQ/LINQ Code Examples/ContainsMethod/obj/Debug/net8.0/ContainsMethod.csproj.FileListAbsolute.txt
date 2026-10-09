@@ -1,4 +1,0 @@
-E:\C#\LINQ\LINQ Code Examples\ContainsMethod\obj\Debug\net8.0\ContainsMethod.GeneratedMSBuildEditorConfig.editorconfig
-E:\C#\LINQ\LINQ Code Examples\ContainsMethod\obj\Debug\net8.0\ContainsMethod.AssemblyInfoInputs.cache
-E:\C#\LINQ\LINQ Code Examples\ContainsMethod\obj\Debug\net8.0\ContainsMethod.AssemblyInfo.cs
-E:\C#\LINQ\LINQ Code Examples\ContainsMethod\obj\Debug\net8.0\ContainsMethod.csproj.CoreCompileInputs.cache

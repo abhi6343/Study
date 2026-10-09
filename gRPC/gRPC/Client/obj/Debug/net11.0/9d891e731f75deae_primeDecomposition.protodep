@@ -1,2 +1,0 @@
-Models/PrimeDecomposition.cs \
-Models/PrimeDecompositionGrpc.cs: ../primeDecomposition.proto

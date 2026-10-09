@@ -1,4 +1,0 @@
-E:\C#\OOPs\OOPs code examples\VariableReferenceandInstanceofaClass\obj\Debug\net8.0\VariableReferenceandInstanceofaClass.GeneratedMSBuildEditorConfig.editorconfig
-E:\C#\OOPs\OOPs code examples\VariableReferenceandInstanceofaClass\obj\Debug\net8.0\VariableReferenceandInstanceofaClass.AssemblyInfoInputs.cache
-E:\C#\OOPs\OOPs code examples\VariableReferenceandInstanceofaClass\obj\Debug\net8.0\VariableReferenceandInstanceofaClass.AssemblyInfo.cs
-E:\C#\OOPs\OOPs code examples\VariableReferenceandInstanceofaClass\obj\Debug\net8.0\VariableReferenceandInstanceofaClass.csproj.CoreCompileInputs.cache

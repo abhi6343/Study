@@ -1,2 +1,0 @@
-Models/Greeting.cs \
-Models/GreetingGrpc.cs: ../greeting.proto
