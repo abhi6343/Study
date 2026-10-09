@@ -50,7 +50,7 @@ namespace ServiceContractsxUnit.DTO
             return $"Person ID: {PersonID}, Person Name: {PersonName}, Email: {Email}, Date Of Birth: {DateOfBirth?.ToString("dd MMM yyyy")}, Gender: {Gender}, Country ID: {CountryID}, Country: {Country}, Address: {Address}, Receive News Letters: {ReceiveNewsLetters}";
         }
 
-        public PersonUpdateRequest ToPersonUpdaterequest()
+        public PersonUpdateRequest ToPersonUpdateRequest()
         {
             return new()
             {
@@ -85,8 +85,19 @@ namespace ServiceContractsxUnit.DTO
                 ReceiveNewsLetters = person.ReceiveNewsLetters,
                 CountryID = person.CountryID,
                 Gender = person.Gender,
+                Address = person.Address,
                 Age = (person.DateOfBirth != null) ? Math.Round((DateTime.Now - person.DateOfBirth.Value).TotalDays / 365.25) : null,
+                Country = person.Country?.CountryName
             };
+        }
+
+        public static PersonResponse ConvertPersonToPersonResponse(this Person person)
+        {
+            var personResponse = person.ToPersonResponse();
+
+            //personResponse.Country = _countryService.GetCountryByCopuntryID(person.CountryID)?.CountryName;
+            personResponse.Country = person.Country?.CountryName;
+            return personResponse;
         }
     }
 }

@@ -1,20 +1,20 @@
-﻿namespace Semaphore
+﻿namespace SemaphoreExample
 {
     internal class Program
     {
-        //public static System.Threading.Semaphore semaphore = null;
+        //readonly static Semaphore semaphore;
         //static void Main(string[] args)
         //{
         //    try
-        //    {
+        //    {                
         //        //Try to Open the Semaphore if Exists, if not throw an exception
-        //        semaphore = System.Threading.Semaphore.OpenExisting("Semaphore");
+        //        semaphore = Semaphore.OpenExisting("Semaphore");
         //    }
         //    catch (WaitHandleCannotBeOpenedException)   //No handle of the given name exists.
         //    {
         //        //If Semaphore not Exists, create a semaphore instance
         //        //Here Maximum 2 external threads can access the code at the same time
-        //        semaphore = new System.Threading.Semaphore(2, 2, "Semaphore");
+        //        semaphore = new Semaphore(2, 2, "Semaphore");
         //    }
         //    Console.WriteLine("External Thread Trying to Acquire");
         //    semaphore.WaitOne();
@@ -25,7 +25,7 @@
         //    semaphore.Release();
         //}
 
-        //public static System.Threading.Semaphore semaphore = new(2, 3);
+        //readonly static Semaphore semaphore = new(2, 3);
         //static void Main(string[] args)
         //{
         //    for (int i = 1; i <= 10; i++)
@@ -59,56 +59,49 @@
         //}
 
         // A semaphore that simulates a limited resource pool.
-        //
-        private static System.Threading.Semaphore _pool;
+        private static Semaphore _pool;
 
         // A padding interval to make the output more orderly.
         private static int _padding;
 
         public static void Main()
         {
-            // Create a semaphore that can satisfy up to three
-            // concurrent requests. Use an initial count of zero,
-            // so that the entire semaphore count is initially
-            // owned by the main program thread.
-            
-            //_pool = new System.Threading.Semaphore(initialCount: 0, maximumCount: 3);
+            // Create a semaphore that can satisfy up to three concurrent requests. Use an initial count of zero,
+            // so that the entire semaphore count is initially owned by the main thread.
 
-            //// Create and start five numbered threads.            
-            //for (int i = 1; i <= 5; i++)
-            //{
-            //    var t = new Thread(new ParameterizedThreadStart(Worker));
+            _pool = new Semaphore(initialCount: 0, maximumCount: 3);
 
-            //    // Start the thread, passing the number.                
-            //    t.Start(i);
-            //}
+            // Create and start five numbered threads.            
+            for (int i = 1; i <= 5; i++)
+            {
+                var t = new Thread(new ParameterizedThreadStart(Worker));
 
-            //// Wait for half a second, to allow all the
-            //// threads to start and to block on the semaphore.
-            
-            //Thread.Sleep(500);
+                // Start the thread, passing the number.                
+                t.Start(i);
+            }
 
-            //// The main thread starts out holding the entire
-            //// semaphore count. Calling Release(3) brings the 
-            //// semaphore count back to its maximum value, and
-            //// allows the waiting threads to enter the semaphore,
-            //// up to three at a time.
-            
-            //Console.WriteLine("Main thread calls Release(3).");
-            //_pool.Release(releaseCount: 3);
+            // Wait for half a second, to allow all the threads to start and to block on the semaphore.
+            Thread.Sleep(500);
 
-            //Console.WriteLine("Main thread exits.");
+            // The main thread starts out holding the entire semaphore count. Calling Release(3) brings the 
+            // semaphore count back to its maximum value, and allows the waiting threads to enter the semaphore,
+            // up to three at a time.
 
-            //_pool.WaitOne();   // Thread A acquires
+            Console.WriteLine("Main thread calls Release(3).");
+            _pool.Release(releaseCount: 3);
 
-            //new Thread(() =>
-            //{
-            //    Console.WriteLine("Thread B releasing semaphore");
-            //    _pool.Release();   // different thread releases
-            //}).Start();
+            Console.WriteLine("Main thread exits.");
+
+            _pool.WaitOne();   // Thread A acquires
+
+            new Thread(() =>
+            {
+                Console.WriteLine("Thread B releasing semaphore");
+                _pool.Release();   // different thread releases
+            }).Start();
         }
 
-        private static void Worker(object num)
+        private static void Worker(object? num)
         {
             // Each worker thread begins by requesting the semaphore.
             Console.WriteLine("Thread {0} begins " + "and waits for the semaphore.", num);

@@ -1,4 +1,4 @@
-﻿namespace Thread_Constructor
+﻿namespace ThreadConstructor
 {
     internal class Program
     {
@@ -26,10 +26,9 @@
             //});
             //t1.Start();
 
-            //DisplayNumbers is now a non-static method, so we need to
-            //refer it by using the instannce
-            Program obj = new Program();
-            Thread t1 = new Thread(obj.DisplayNumbers);
+            //DisplayNumbers is now a non-static method, so we need to refer it by using the instannce
+            var obj = new Program();
+            var t1 = new Thread(obj.DisplayNumbers);
 
             //ParameterizedThreadStart PTSD = new ParameterizedThreadStart(obj.DisplayNumbers);
             //Thread t1 = new Thread(PTSD);
@@ -46,8 +45,8 @@
             //Create the ResultCallbackDelegate instance and to its constructor pass the callback method name
             //ResultCallbackDelegate resultCallbackDelegate = new ResultCallbackDelegate(ResultCallBackMethod);
             //int Number = 10;
-            //Creating the instance of NumberHelper class by passing the Number and the callback delegate instance
-            //NumberHelper obj = new NumberHelper(Number, resultCallbackDelegate);
+            //Creating the instance of NumberHelperReturn class by passing the Number and the callback delegate instance
+            //NumberHelperReturn obj = new NumberHelperReturn(Number, resultCallbackDelegate);
             //Creating the Thread using ThreadStart delegate
             //Thread T1 = new Thread(new ThreadStart(obj.CalculateSum));
             //T1.Start();
@@ -67,7 +66,7 @@
                 Console.WriteLine("Method1 :" + i);
             }
         }
-        public void DisplayNumbers(object Max)
+        public void DisplayNumbers(object? Max)
         {
             int Number = Convert.ToInt32(Max);
             for (int i = 1; i <= Number; i++)

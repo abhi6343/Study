@@ -4,7 +4,7 @@ using ViewComponents.Models;
 namespace ViewComponents.ViewComponents
 {
     //[ViewComponent]
-    public class GridViewComponent : ViewComponent
+    public class CityViewComponent : ViewComponent
     {
         public async Task<IViewComponentResult> InvokeAsync(PersonGridModel grid)
         {

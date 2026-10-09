@@ -2,14 +2,14 @@
 {
     internal class BookMyShow
     {
-        int AvailableTickets = 3;
-        static int i = 1, j = 2, k = 3;
-        public void BookTicket(string name, int wantedtickets)
+        private int AvailableTickets = 3;
+        private static readonly int i = 1, j = 2, k = 3;
+        void BookTicket(string name, int wantedtickets)
         {
             if (wantedtickets <= AvailableTickets)
             {
                 Console.WriteLine(wantedtickets + " booked to " + name);
-                AvailableTickets = AvailableTickets - wantedtickets;
+                AvailableTickets -= wantedtickets;
             }
             else
             {
@@ -18,7 +18,7 @@
         }
         public void TicketBookig()
         {
-            string name = Thread.CurrentThread.Name;
+            var name = Thread.CurrentThread.Name;
             if (name.Equals("Thread1"))
             {
                 BookTicket(name, i);

@@ -1,6 +1,6 @@
 ﻿using System.Diagnostics;
 
-namespace ThreadPool
+namespace ThreadPoolExample
 {
     internal class Program
     {
@@ -9,14 +9,14 @@ namespace ThreadPool
             #region ThreadPool
             //for (int i = 0; i < 10; i++)
             //{
-            //    System.Threading.ThreadPool.QueueUserWorkItem(new WaitCallback(MyMethod));
+            //    ThreadPool.QueueUserWorkItem(new WaitCallback(MyMethod));
             //}
             #endregion
 
             #region Threads
             //for (int i = 0; i < 10; i++)
             //{
-            //    Thread thread = new Thread(MyMethod)
+            //    var  thread = new Thread(MyMethod)
             //    {
             //        Name = "Thread" + i
             //    };
@@ -36,26 +36,26 @@ namespace ThreadPool
             }
             //Warmup Code stop
 
-            Stopwatch stopwatch = new Stopwatch();
+            var stopwatch = new Stopwatch();
             Console.WriteLine("Execution using Thread");
             stopwatch.Start();
             MethodWithThread();
             stopwatch.Stop();
-            Console.WriteLine("Time consumed by MethodWithThread is : " + stopwatch.ElapsedTicks.ToString());
+            Console.WriteLine("Time consumed by MethodWithThread is : " + stopwatch.ElapsedTicks);
 
             stopwatch.Reset();
             Console.WriteLine("Execution using Thread Pool");
             stopwatch.Start();
             MethodWithThreadPool();
             stopwatch.Stop();
-            Console.WriteLine("Time consumed by MethodWithThreadPool is : " + stopwatch.ElapsedTicks.ToString());
+            Console.WriteLine("Time consumed by MethodWithThreadPool is : " + stopwatch.ElapsedTicks);
             #endregion
 
             Console.Read();
         }
-        public static void MyMethod(object obj)
+        public static void MyMethod()
         {
-            Thread thread = Thread.CurrentThread;
+            var thread = Thread.CurrentThread;
             string message = $"Background: {thread.IsBackground}, Thread Pool: {thread.IsThreadPoolThread}, Thread ID: {thread.ManagedThreadId}";
             Console.WriteLine(message);
         }
@@ -63,7 +63,7 @@ namespace ThreadPool
         {
             for (int i = 0; i < 10; i++)
             {
-                Thread thread = new Thread(Test);
+                var thread = new Thread(Test);
                 thread.Start();
             }
         }
@@ -71,10 +71,10 @@ namespace ThreadPool
         {
             for (int i = 0; i < 10; i++)
             {
-                System.Threading.ThreadPool.QueueUserWorkItem(new WaitCallback(Test));
+                _ = ThreadPool.QueueUserWorkItem(Test);
             }
         }
-        public static void Test(object obj)
+        public static void Test(object? obj)
         {
         }
     }

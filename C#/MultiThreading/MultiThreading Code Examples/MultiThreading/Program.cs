@@ -58,15 +58,15 @@
         {
             Console.WriteLine("Main Thread Started");
             //Creating Threads
-            Thread t1 = new Thread(Method1)
+            var t1 = new Thread(Method1)
             {
                 Name = "Thread1"
             };
-            Thread t2 = new Thread(Method2)
+            var t2 = new Thread(Method2)
             {
                 Name = "Thread2"
             };
-            Thread t3 = new Thread(Method3)
+            var t3 = new Thread(Method3)
             {
                 Name = "Thread3"
             };

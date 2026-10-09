@@ -5,10 +5,10 @@
 	<title>Weather App</title>
 	<link href="~/StyleSheet.css" rel="stylesheet" />
 </head>
-<body>
+<body>	
 	@* <h1>Weather</h1> *@
-
-	<div class="weather-container">
+	@await Html.PartialAsync("_CityPartialView")
+	@* <div class="weather-container">
 
 		<div class="weather-card" style="height:80px">
 			<div class="weather-info" >
@@ -35,7 +35,7 @@
 	</div>
 	<div class="weather-container" style="margin-top:5px">
 		<a href="~/">Back to Weather Home Page</a>
-	</div>
+	</div> *@
 	
 </body>
 </html>

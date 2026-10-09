@@ -1,0 +1,30 @@
+﻿@using WeatherApp.Models
+@model CityWeather
+<div class="weather-container">
+
+	<div class="weather-card" style="height:80px">
+		<div class="weather-info">
+			<div class="city-name">
+				@Model.CityName
+			</div>
+
+			<div class="date-time" style="margin-bottom:0">
+				@Model.DateAndTime?.ToString("dd MMM yyyy")
+			</div>
+
+			<div class="date-time">
+				@Model.DateAndTime?.ToString("hh:mm tt")
+			</div>
+		</div>
+
+		<div class="separator" style="height:80px"></div>
+
+		<div class="temperature">
+			<span>@Model.TemperatureFahrenheit</span>
+			<span class="degree">°F</span>
+		</div>
+	</div>
+</div>
+<div class="weather-container" style="margin-top:5px">
+	<a href="~/">Back to Weather Home Page</a>
+</div>

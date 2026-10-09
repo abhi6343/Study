@@ -2,7 +2,7 @@
 {
     internal class Program
     {
-        static object lockObject = new object();
+        static readonly object lockObject = new object();
         static int Count = 0;
         static void Main(string[] args)
         {
@@ -19,25 +19,27 @@
             //{
             //    Name = "Thread3"
             //};
-            //Thread thread1 = new Thread(SomeMethod)
+
+            //var thread1 = new Thread(SomeMethod)
             //{
             //    Name = "Thread 1"
             //};
-            //Thread thread2 = new Thread(SomeMethod)
+            //var thread2 = new Thread(SomeMethod)
             //{
             //    Name = "Thread 2"
             //};
-            //Thread thread3 = new Thread(SomeMethod)
+            //var thread3 = new Thread(SomeMethod)
             //{
-            //    Name = "Thread 2"
+            //    Name = "Thread 3"
             //};
+
             //thread1.Start();
             //thread2.Start();
             //thread3.Start();
 
-            Thread t1 = new Thread(IncrementCount);
-            Thread t2 = new Thread(IncrementCount);
-            Thread t3 = new Thread(IncrementCount);
+            var t1 = new Thread(IncrementCount);
+            var t2 = new Thread(IncrementCount);
+            var t3 = new Thread(IncrementCount);
             t1.Start();
             t2.Start();
             t3.Start();
@@ -53,11 +55,12 @@
         {
             for (int i = 1; i <= 1000000; i++)
             {
-                //Only protecting the shared Count variable
+                //Only protecting the shared Count variable.
                 lock (LockCount)
                 {
                     Count++;
                 }
+                //Interlocked.Increment(ref Count); //This is an alternative to lock statement
             }
         }
         public static void SomeMethod()

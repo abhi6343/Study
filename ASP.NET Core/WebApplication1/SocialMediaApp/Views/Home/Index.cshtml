@@ -1,0 +1,17 @@
+﻿@using SocialMediaApp.ConfigurationModels;
+@model IEnumerable<SocialMediaLinksOptions>
+@{
+	ViewBag.Title = "Social Media Links";
+}
+
+<div class="container">
+	<div class="page-content">
+		<h1>@ViewBag.Title</h1>
+		<div class="flex">
+			@foreach (var option in Model)
+			{
+				<a href="@option.Url" class="box">@option.Name</a>
+			}
+		</div>
+	</div>
+</div>

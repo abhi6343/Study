@@ -1,4 +1,5 @@
-﻿using ServiceContractsxUnit.DTO;
+﻿using Microsoft.AspNetCore.Http;
+using ServiceContractsxUnit.DTO;
 
 namespace ServiceContractsxUnit
 {
@@ -12,19 +13,29 @@ namespace ServiceContractsxUnit
         /// </summary>
         /// <param name="countryAddRequest">Country object to be added</param>
         /// <returns>Returns the country object after adding it  (including newly generated country id)</returns>
-        CountryResponse AddCountry(CountryAddRequest? countryAddRequest);
+        //CountryResponse AddCountry(CountryAddRequest? countryAddRequest);
+        Task<CountryResponse> AddCountry(CountryAddRequest? countryAddRequest);
 
         /// <summary>
         /// Returns all countries from the list
         /// </summary>
         /// <returns>All countries from the list as List of CountryResponse</returns>
-        List<CountryResponse> GetAllCountries();
+        //List<CountryResponse> GetAllCountries();
+        Task<List<CountryResponse>> GetAllCountries();
 
         /// <summary>
         /// Returns a country object based on the given country id
         /// </summary>
         /// <param name="countryID">CountryID (Guid) to search</param>
         /// <returns>Matching country as CountryResponse object</returns>
-        CountryResponse? GetCountryByCopuntryID(Guid? countryID);
+        //CountryResponse? GetCountryByCopuntryID(Guid? countryID);
+        Task<CountryResponse?> GetCountryByCopuntryID(Guid? countryID);
+
+        /// <summary>
+        /// Uploads countries from the given excel file and returns the number of countries added to the list
+        /// </summary>
+        /// <param name="formfile">The excel file containing country data</param>
+        /// <returns>The number of countries added</returns>
+        Task<int> UploadCountriesFromExcelFile(IFormFile formfile);
     }
 }

@@ -6,9 +6,9 @@
         {
             Console.WriteLine("Main Thread Started");
             //Main Thread creating three child threads
-            Thread thread1 = new Thread(Method1);
-            Thread thread2 = new Thread(Method2);
-            Thread thread3 = new Thread(Method3);
+            var thread1 = new Thread(Method1);
+            var thread2 = new Thread(Method2);
+            var thread3 = new Thread(Method3);
             thread1.Start();
             //thread2.Start();
             //thread3.Start();
@@ -16,25 +16,26 @@
             //thread1.Join(); //Block Main Thread until thread1 completes its execution
             //thread2.Join(); //Block Main Thread until thread2 completes its execution
             //Now, Main Thread will not wait for thread3 to complete its execution
+
             //thread3.Join(); //Block Main Thread until thread3 completes its execution
 
-            //Now, Main Thread will block for 3 seconds and wait thread2 to complete its execution
+            //Now, Main Thread will block for 3 seconds and wait for thread2 to complete its execution
             //if (thread2.Join(TimeSpan.FromSeconds(3)))
             //{
-            //    Console.WriteLine("Thread 2 Execution Completed in 3 second");
+            //    Console.WriteLine("Thread2 Execution Completed in 3 seconds");
             //}
             //else
             //{
-            //    Console.WriteLine("Thread 2 Execution Not Completed in 3 second");
+            //    Console.WriteLine("Thread2 Execution Not Completed in 3 seconds");
             //}
-            ////Now, Main Thread will block for 3 seconds and wait thread3 to complete its execution
+            ////Now, Main Thread will block for 3 seconds and wait for thread3 to complete its execution
             //if (thread3.Join(3000))
             //{
-            //    Console.WriteLine("Thread 3 Execution Completed in 3 second");
+            //    Console.WriteLine("Thread3 Execution Completed in 3 seconds");
             //}
             //else
             //{
-            //    Console.WriteLine("Thread 3 Execution Not Completed in 3 second");
+            //    Console.WriteLine("Thread3 Execution Not Completed in 3 seconds");
             //}
 
             #region IsAlive
@@ -46,8 +47,10 @@
             {
                 Console.WriteLine("Thread1 Method1 Completed its work");
             }
-            //Wait Till thread1 to complete its execution
+            
+            //Wait till thread1 completes its execution
             thread1.Join();
+
             if (thread1.IsAlive)
             {
                 Console.WriteLine("Thread1 Method1 is still Executing");

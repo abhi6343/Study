@@ -7,7 +7,7 @@
             try
             {
                 // Creating and initializing threads Unstarted state
-                Thread thread1 = new Thread(SomeMethod);
+                var thread1 = new Thread(SomeMethod);
                 Console.WriteLine($"Before Start, IsAlive: {thread1.IsAlive}, ThreadState: {thread1.ThreadState}");
                 // Running State
                 thread1.Start();

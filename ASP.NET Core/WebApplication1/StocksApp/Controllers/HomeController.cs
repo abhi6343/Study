@@ -28,14 +28,14 @@ namespace StocksApp.Controllers
             var responseDict = await _finnhubService.GetStockPriceQuote(_tradingOptions.Value.DefaultStockSymbol);
             var stock = new Stock()
             {
-                StockSymbol = _tradingOptions.Value.DefaultStockSymbol,
+                StockSymbol = this._tradingOptions.Value.DefaultStockSymbol,
                 CurrentPrice = Convert.ToDouble(responseDict["c"].ToString()),
                 HighestPrice = Convert.ToDouble(responseDict["h"].ToString()),
                 LowestPrice = Convert.ToDouble(responseDict["l"].ToString()),
                 OpenPrice = Convert.ToDouble(responseDict["o"].ToString()),
             };
 
-            return View(stock);
+            return this.View(stock);
         }
     }
 }

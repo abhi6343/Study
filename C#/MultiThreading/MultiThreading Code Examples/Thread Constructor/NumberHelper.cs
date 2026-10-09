@@ -1,4 +1,4 @@
-﻿namespace Thread_Constructor
+﻿namespace ThreadConstructor
 {
     internal class NumberHelper
     {

@@ -6,25 +6,27 @@ namespace MultiThreadingPerformance
     {
         public static void Main()
         {
-            Stopwatch stopwatch = Stopwatch.StartNew();
-            stopwatch = Stopwatch.StartNew();
+            Stopwatch stopwatch = Stopwatch.StartNew();            
 
             //#region Single Thread
-            //EvenNumbersSum();
-            //OddNumbersSum();
+            EvenNumbersSum();
+            OddNumbersSum();
+            stopwatch.Stop();
+            Console.WriteLine($"Total time in milliseconds : {stopwatch.ElapsedMilliseconds}");
             //#endregion
 
-            #region Muti Thread
-            Thread thread1 = new Thread(EvenNumbersSum);
-            Thread thread2 = new Thread(OddNumbersSum);
+            #region Multi Thread
+            stopwatch = Stopwatch.StartNew();
+            var thread1 = new Thread(EvenNumbersSum);
+            var thread2 = new Thread(OddNumbersSum);
             thread1.Start();
             thread2.Start();
             thread1.Join();
             thread2.Join();
+            stopwatch.Stop();
             #endregion
 
-            stopwatch.Stop();
-            Console.WriteLine($"Total time in milliseconds : {stopwatch.ElapsedMilliseconds}");
+            Console.WriteLine($"Total time in milliseconds for Multi-threading: {stopwatch.ElapsedMilliseconds}");
             Console.ReadKey();
         }
         public static void EvenNumbersSum()
@@ -34,7 +36,7 @@ namespace MultiThreadingPerformance
             {
                 if (count % 2 == 0)
                 {
-                    Evensum = Evensum + count;
+                    Evensum += count;
                 }
             }
             Console.WriteLine($"Sum of even numbers = {Evensum}");
@@ -46,7 +48,7 @@ namespace MultiThreadingPerformance
             {
                 if (count % 2 == 1)
                 {
-                    Oddsum = Oddsum + count;
+                    Oddsum += count;
                 }
             }
             Console.WriteLine($"Sum of odd numbers = {Oddsum}");

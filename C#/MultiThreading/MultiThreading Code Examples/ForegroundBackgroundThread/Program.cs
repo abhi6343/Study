@@ -5,15 +5,14 @@
         //static void Main(string[] args)
         //{
         //    // A thread created here to run Method1 Parallely
-        //    Thread thread1 = new Thread(Method1)
+        //    var thread1 = new Thread(Method1)
         //    {
         //        //Thread becomes background thread
         //        IsBackground = true
         //    };
         //    Console.WriteLine($"Thread1 is a Background thread:  {thread1.IsBackground}");
         //    thread1.Start();
-        //    //The control will come here and will exit 
-        //    //the main thread or main application
+        //    //The control will come here and will exit the main thread or main application
         //    Console.WriteLine("Main Thread Exited");
         //}
         //// Static method
@@ -34,13 +33,12 @@
         //static void Main(string[] args)
         //{
         //    // A thread created here to run Method1 Parallely
-        //    Thread thread1 = new Thread(Method1)
+        //    var thread1 = new Thread(Method1)
         //    {
         //    };
         //    Console.WriteLine($"Thread1 is a Background thread:  {thread1.IsBackground}");
         //    thread1.Start();
-        //    //The control will come here and will exit 
-        //    //the main thread or main application
+        //    //The control will come here and will exit the main thread or main application
         //    Console.WriteLine("Main Thread Exited");
         //    //As the Main thread (i.e. foreground thread exits the application)
         //    //Automatically, the background thread quits the application
@@ -49,7 +47,7 @@
         //static void Method1()
         //{
         //    Console.WriteLine("Method1 Started");
-        //    Thread thread2 = new Thread(Method2)
+        //    var thread2 = new Thread(Method2)
         //    {
         //        IsBackground = true
         //    };
@@ -71,14 +69,15 @@
         //    Console.ReadKey();
         //}
         #endregion
+
         static void Main(string[] args)
         {
-            ThreadingTest foregroundTest = new ThreadingTest(5);
-            //Creating a Coreground Thread
-            Thread foregroundThread = new Thread(new ThreadStart(foregroundTest.RunLoop));
-            ThreadingTest backgroundTest = new ThreadingTest(50);
+            var foregroundTest = new ThreadingTest(5);
+            //Creating a Foreground Thread
+            var foregroundThread = new Thread(new ThreadStart(foregroundTest.RunLoop));
+            var backgroundTest = new ThreadingTest(50);
             //Creating a Background Thread
-            Thread backgroundThread = new Thread(new ThreadStart(backgroundTest.RunLoop))
+            var backgroundThread = new Thread(new ThreadStart(backgroundTest.RunLoop))
             {
                 IsBackground = true
             };

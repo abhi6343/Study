@@ -1,29 +1,29 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.10.35013.160
+# Visual Studio Version 18
+VisualStudioVersion = 18.10.12120.281
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MultiThreading", "MultiThreading.csproj", "{D63263B1-896E-4934-AB92-076DB5F85B58}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Thread Constructor", "..\Thread Constructor\Thread Constructor.csproj", "{8648B382-07CC-4F3A-9F9B-D065FB48DCB8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ThreadConstructor", "..\Thread Constructor\ThreadConstructor.csproj", "{8648B382-07CC-4F3A-9F9B-D065FB48DCB8}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ThreadJoin", "..\ThreadJoin\ThreadJoin.csproj", "{FBB09AD5-6397-4FBC-BDE1-A6C687AC1A85}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Synchronisation", "..\Synchronisation\Synchronisation.csproj", "{E9D8468B-6AC1-412A-B46F-D5FB573B6B91}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Monitor", "..\Monitor\Monitor.csproj", "{D0744A31-1D2E-47DE-B330-F75BAEDF37A0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MonitorExample", "..\Monitor\MonitorExample.csproj", "{D0744A31-1D2E-47DE-B330-F75BAEDF37A0}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mutex", "..\Mutex\Mutex.csproj", "{F82F5BF5-4405-42C6-A725-0CA5DA7C6878}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MutexExample", "..\Mutex\MutexExample.csproj", "{F82F5BF5-4405-42C6-A725-0CA5DA7C6878}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Semaphore", "..\Semaphore\Semaphore.csproj", "{E834FB76-8D38-4142-BCD1-0500AB0A287B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SemaphoreExample", "..\Semaphore\SemaphoreExample.csproj", "{E834FB76-8D38-4142-BCD1-0500AB0A287B}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SemaphoreSlim", "..\SemaphoreSlim\SemaphoreSlim.csproj", "{5B1E48C2-0123-4F57-93EB-7389BAB50DFB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SemaphoreSlimExample", "..\SemaphoreSlim\SemaphoreSlimExample.csproj", "{5B1E48C2-0123-4F57-93EB-7389BAB50DFB}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DeadLock", "..\DeadLock\DeadLock.csproj", "{16CCE700-883D-45A8-8113-3FFC60A94C6F}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MultiThreadingPerformance", "..\MultiThreadingPerformance\MultiThreadingPerformance.csproj", "{F1285BFF-B9E5-46AE-8AC2-9990FD82A3A8}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ThreadPool", "..\ThreadPool\ThreadPool.csproj", "{FE36CD77-613C-4C30-8366-0444E93AA33D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ThreadPoolExample", "..\ThreadPool\ThreadPoolExample.csproj", "{FE36CD77-613C-4C30-8366-0444E93AA33D}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ForegroundBackgroundThread", "..\ForegroundBackgroundThread\ForegroundBackgroundThread.csproj", "{0CBEDF0B-27E9-4BF4-95B0-D03B001DB513}"
 EndProject
@@ -31,7 +31,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Auto&ManualResetEvent", "..
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ThreadLifeCycle", "..\ThreadLifeCycle\ThreadLifeCycle.csproj", "{08C2030D-F76D-4942-9631-9B7330BA0AC4}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ThreadPriority", "..\ThreadPriority\ThreadPriority.csproj", "{0AA0C701-4CA8-46EB-84CE-CDDBDB11BEE1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ThreadPriorityExample", "..\ThreadPriority\ThreadPriorityExample.csproj", "{0AA0C701-4CA8-46EB-84CE-CDDBDB11BEE1}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbortThread", "..\AbortThread\AbortThread.csproj", "{993F7449-1280-47E5-88E4-4979C1393BE2}"
 EndProject

@@ -1,4 +1,4 @@
-﻿namespace Monitor
+﻿namespace MonitorExample
 {
     internal class Program
     {
@@ -25,8 +25,8 @@
         static readonly object _lockMonitor = new object();
         static void Main()
         {
-            Thread EvenThread = new Thread(PrintEvenNumbers);
-            Thread OddThread = new Thread(PrintOddNumbers);
+            var EvenThread = new Thread(PrintEvenNumbers);
+            var OddThread = new Thread(PrintOddNumbers);
             //First Start the Even thread.
             EvenThread.Start();
             //Puase for 100 ms, to make sure Even thread has started
@@ -47,16 +47,16 @@
             try
             {
                 //Implement lock as the Console is shared between two threads
-                System.Threading.Monitor.Enter(_lockMonitor);
-                for (int i = 0; i <= numberLimit; i = i + 2)
+                Monitor.Enter(_lockMonitor);
+                for (int i = 0; i <= numberLimit; i += 2)
                 {
                     //Printing Even Number on Console
                     Console.Write($"{i} ");
                     //Notify Odd thread that I'm done, you do your job
-                    //It notifies a thread in the waiting queue of a change in the locked object's state.
-                    System.Threading.Monitor.Pulse(_lockMonitor);
+                    //Notifies a thread in the waiting queue of a change in the locked object's state.
+                    Monitor.Pulse(_lockMonitor);
                     //I will wait here till Odd thread notify me
-                    //System.Threading.Monitor.Wait(_lockMonitor);
+                    //Monitor.Wait(_lockMonitor);
                     //Without this logic application will wait forever
                     bool isLast = false;
                     if (i == numberLimit)
@@ -66,16 +66,15 @@
                     if (!isLast)
                     {
                         //I will wait here till Odd thread notify me
-                        //Releases the lock on an object and blocks the current thread
-                        //until it reacquires the lock.
-                        System.Threading.Monitor.Wait(_lockMonitor);
+                        //Releases the lock on an object and blocks the current thread until it reacquires the lock.
+                        Monitor.Wait(_lockMonitor);
                     }
                 }
             }
             finally
             {
                 //Release the lock
-                System.Threading.Monitor.Exit(_lockMonitor);
+                Monitor.Exit(_lockMonitor);
             }
         }
         
@@ -85,13 +84,13 @@
             try
             {
                 //Hold lock as the Console is shared between two threads
-                System.Threading.Monitor.Enter(_lockMonitor);
-                for (int i = 1; i <= numberLimit; i = i + 2)
+                Monitor.Enter(_lockMonitor);
+                for (int i = 1; i <= numberLimit; i += 2)
                 {
                     //Printing the odd numbers on the console
                     Console.Write($"{i} ");
                     //Notify Even thread that I'm done, you do your job
-                    System.Threading.Monitor.Pulse(_lockMonitor);
+                    Monitor.Pulse(_lockMonitor);
                     // I will wait here till even thread notify me
                     // Monitor.Wait(monitor);
                     // without this logic application will wait forever
@@ -103,14 +102,14 @@
                     if (!isLast)
                     {
                         //I will wait here till Even thread notify me
-                        System.Threading.Monitor.Wait(_lockMonitor);
+                        Monitor.Wait(_lockMonitor);
                     }
                 }
             }
             finally
             {
                 //Release lock
-                System.Threading.Monitor.Exit(_lockMonitor);
+                Monitor.Exit(_lockMonitor);
             }
         }
         public static void PrintNumbers()
@@ -120,9 +119,9 @@
             bool IsLockTaken = false;
             try
             {
-                //System.Threading.Monitor.Enter(lockPrintNumbers);
-                //System.Threading.Monitor.Enter(lockPrintNumbers, ref IsLockTaken);
-                System.Threading.Monitor.TryEnter(lockPrintNumbers, timeout, ref IsLockTaken);
+                //Monitor.Enter(lockPrintNumbers);
+                //Monitor.Enter(lockPrintNumbers, ref IsLockTaken);
+                Monitor.TryEnter(lockPrintNumbers, timeout, ref IsLockTaken);
                 if (IsLockTaken)
                 {
                     Console.WriteLine(Thread.CurrentThread.Name + " Entered into the critical section");
@@ -143,7 +142,7 @@
             {
                 if (IsLockTaken)
                 {
-                    System.Threading.Monitor.Exit(lockPrintNumbers);
+                    Monitor.Exit(lockPrintNumbers);
                     Console.WriteLine(Thread.CurrentThread.Name + " Exit from critical section");
                 }
             }

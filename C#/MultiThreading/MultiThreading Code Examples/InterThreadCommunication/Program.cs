@@ -5,14 +5,14 @@
         //#region Print even & odd numbers
         ////Limit numbers will be printed on the Console
         //const int numberLimit = 10;
-        //static readonly object _lockObject = new object();
+        //static readonly object _lockObject = new();
         //static void Main(string[] args)
         //{
-        //    Thread EvenThread = new Thread(PrintEvenNumbers);
-        //    Thread OddThread = new Thread(PrintOddNumbers);
+        //    var EvenThread = new Thread(PrintEvenNumbers);
+        //    var OddThread = new Thread(PrintOddNumbers);
         //    //First Start the Even thread.
         //    EvenThread.Start();
-        //    //Pause for 10 ms, to make sure Even thread has started 
+        //    //Pause for 100 ms, to make sure Even thread has started 
         //    //or else Odd thread may start first resulting different sequence.
         //    Thread.Sleep(100);
         //    //Next, Start the Odd thread.
@@ -22,6 +22,7 @@
         //    EvenThread.Join();
         //    Console.ReadKey();
         //}
+
         ////Printing of Even Numbers Function
         //static void PrintEvenNumbers()
         //{
@@ -36,7 +37,7 @@
         //            //Notify Odd thread that I'm done, you do your job
         //            Monitor.Pulse(_lockObject);
         //            //I will wait here till Odd thread notify me 
-        //            // Monitor.Wait(monitor);
+        //            // Monitor.Wait(_lockObject);
         //            //Without this logic application will wait forever
         //            bool isLast = false;
         //            if (i == numberLimit)
@@ -56,6 +57,7 @@
         //        Monitor.Exit(_lockObject);
         //    }
         //}
+
         ////Printing of Odd Numbers Function
         //static void PrintOddNumbers()
         //{
@@ -70,7 +72,7 @@
         //            //Notify Even thread that I'm done, you do your job
         //            Monitor.Pulse(_lockObject);
         //            //I will wait here till even thread notify me
-        //            // Monitor.Wait(monitor);
+        //            // Monitor.Wait(_lockObject);
         //            // without this logic application will wait forever
         //            bool isLast = false;
         //            if (i == numberLimit - 1)
@@ -92,7 +94,7 @@
         //}
         //#endregion
 
-        //#region Print table of 4 & 5 without Wait() & Pulse()
+        #region Print table of 4 & 5 without Wait() & Pulse()
         //static readonly object _lockObject = new object();
         //static void Main(string[] args)
         //{
@@ -129,13 +131,14 @@
         //        }
         //    }
         //}
-        //#endregion
+        #endregion
 
-        # region Print table of 4 & 5 with Wait() & Pulse()
+        #region Print table of 4 & 5 with Wait() & Pulse()
         static readonly object _lockObject = new object();
+        static bool tableOfFourFinished;
         static void Main(string[] args)
         {
-            //Creating an object ofThread class to Execute the PrintTable method
+            //Creating an object of Thread class to Execute the PrintTable method
             Thread thread = new Thread(PrintTable)
             {
                 Name = "Manual Thread"
@@ -144,11 +147,13 @@
             //Locking the _lockObject
             lock (_lockObject)
             {
-                //Calling the Wait() method in a synchronized context
-                //Doing so, makes the Main Thread stops its execution and wait
-                //until it is notified by the Pulse() method
-                //on the same object _lockObject
-                Monitor.Wait(_lockObject);
+                while (!tableOfFourFinished)
+                {
+                    //Calling the Wait() method in a synchronized context
+                    //Doing so, makes the Main Thread stops its execution and wait
+                    //until it is notified by the Pulse() method on the same object _lockObject
+                    Monitor.Wait(_lockObject);
+                }
                 Thread th = Thread.CurrentThread;
                 th.Name = "Main Thread";
                 Console.WriteLine($"{th.Name} Running and Printing the Table of 5");
@@ -171,10 +176,11 @@
                 {
                     Console.WriteLine("4 x " + i + " = " + (4 * i));
                 }
+                tableOfFourFinished = true; // state first
                 //The manually created thread is calling the Pulse() method
                 //To notifying the Main thread that it is releasing the lock over the _lockObject
                 //And Main Thread could lock the object to continue its work     
-                Monitor.Pulse(_lockObject);
+                Monitor.Pulse(_lockObject); // then notify
             } //synchronized block ends
         }
         #endregion

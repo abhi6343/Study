@@ -4,28 +4,27 @@
     {
         static void Main(string[] args)
         {
-            Thread thread1 = new Thread(SomeMethod)
+            var thread1 = new Thread(SomeMethod)
             {
-                Name = "Thread 1"
+                Name = "Thread 1",
+                Priority = System.Threading.ThreadPriority.Normal
             };
-            //Setting the thread Priority as Normal
-            thread1.Priority = System.Threading.ThreadPriority.Normal;
-            Thread thread2 = new Thread(SomeMethod)
+            var thread2 = new Thread(SomeMethod)
             {
-                Name = "Thread 2"
+                Name = "Thread 2",
+                Priority = System.Threading.ThreadPriority.Lowest
             };
-            //Setting the thread Priority as Lowest
-            thread2.Priority = System.Threading.ThreadPriority.Lowest;
-            Thread thread3 = new Thread(SomeMethod)
+            var thread3 = new Thread(SomeMethod)
             {
-                Name = "Thread 3"
+                Name = "Thread 3",
+                Priority = System.Threading.ThreadPriority.Highest
             };
-            //Setting the thread Priority as Highest
-            thread3.Priority = System.Threading.ThreadPriority.Highest;
+
             //Getting the thread Prioroty
             Console.WriteLine($"Thread 1 Priority: {thread1.Priority}");
             Console.WriteLine($"Thread 2 Priority: {thread2.Priority}");
             Console.WriteLine($"Thread 3 Priority: {thread3.Priority}");
+
             thread1.Start();
             thread2.Start();
             thread3.Start();

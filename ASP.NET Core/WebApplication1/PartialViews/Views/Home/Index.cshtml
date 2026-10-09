@@ -4,7 +4,7 @@
 @{
 }
 <h1>Home</h1>
-<button id="button-load" class="button button-blue-back" type="button">Load Programming Languages</button>
+@* <button id="button-load" class="button button-blue-back" type="button">Load Programming Languages</button>
 
 <div class="box programming-languages-content">
 
@@ -17,7 +17,7 @@
         var languages = await response.text();
         document.querySelector(".programming-languages-content").innerHTML = languages;
     });
-</script>
+</script> *@
 @* @{
     ListModel listModel =  new() { ListTitle = "Countries" };
     listModel.ListItems = new List<string>()
@@ -45,3 +45,4 @@
 @* </div> *@
 
 @* <h3>ListTitle in View: @ViewBag.ListTitle</h3> *@
+<vc:grid></vc:grid>

@@ -1,0 +1,23 @@
+﻿@using StocksApp.Models
+@model StockTrade
+<div class="box trading-panel">
+    <div class="flex trading-panel-flex">
+        <div id="stock-price-panel">
+            <div class="stock">
+                <h1 class="stock-title">@Model.StockSymbol</h1>
+                <table>
+                    <tbody>
+                        <tr>
+                            <td>Company Name:</td>
+                            <th>@Model.StockName</th>
+                        </tr>
+                        <tr>
+                            <td>Open:</td>
+                            <th><small>$ </small><span class="price">@Model.Price.ToString("N")</span></th>
+                        </tr>                                               
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>

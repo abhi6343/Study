@@ -14,12 +14,15 @@
   <Project Path="Middleware/Middleware.csproj" Id="404443a6-66b9-40a2-b8d3-45ca9a8f4e17" />
   <Project Path="OrderApp/OrderApp.csproj" Id="c2fb897d-1589-470d-8f76-db6272142e48" />
   <Project Path="PartialViews/PartialViews.csproj" Id="fcc5ba78-6ee5-4de8-8941-063a3613c17a" />
+  <Project Path="Repositories/Repositories.csproj" Id="36e1bfe3-ff41-48cc-bef0-de2ca9e1f2a0" />
+  <Project Path="RepositoryContracts/RepositoryContracts.csproj" Id="ba43919d-d075-414c-8908-beb8f5957bc8" />
   <Project Path="Routing/Routing.csproj" Id="271013dd-c208-411d-b527-27da305d5911" />
   <Project Path="ServeStaticFiles/ServeStaticFiles.csproj" Id="8c12519d-8868-44f2-b57e-2bafb6a98a9a" />
   <Project Path="ServiceContracts/ServiceContracts.csproj" Id="53defe8a-42b4-40be-a793-b9e98638dc4e" />
   <Project Path="ServiceContractsxUnit/ServiceContractsxUnit.csproj" Id="a1af2c2c-2943-4f12-8e5e-f013ba9a9d02" />
   <Project Path="Services/Services.csproj" Id="2a7117a5-7fb6-42cd-8b47-9517588cfe87" />
   <Project Path="ServicesxUnit/ServicesxUnit.csproj" Id="31d358a4-cee5-4873-ae61-6b51aaaf7347" />
+  <Project Path="SocialMediaApp/SocialMediaApp.csproj" Id="fbd61e12-ec0b-45ee-b85e-6639eaf0c77a" />
   <Project Path="StocksApp/StocksApp.csproj" Id="de76cbf7-cf22-4082-8441-01b2e53bba2f" />
   <Project Path="ViewComponents/ViewComponents.csproj" Id="0df5d872-64b8-41ff-a2e3-ea6c03611c6f" />
   <Project Path="Views/ViewsDemo.csproj" Id="3812c79e-95f9-459b-8a61-c92f72b3bf38" />

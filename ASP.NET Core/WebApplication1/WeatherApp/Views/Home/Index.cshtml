@@ -8,7 +8,16 @@
 </head>
 <body> *@
 @* <h1>Weather</h1> *@
+@* <div class="margin-top-200 margin-left">
+	<div class="flex">
+		@foreach (CityWeather city in Model)
+		{
+			@await Component.InvokeAsync("Grid", new { city = city })
+		}
 
+	</div>
+
+</div> *@
 <div class="weather-container">
 
 	<!-- London -->

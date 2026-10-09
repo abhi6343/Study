@@ -1,1 +1,28 @@
+# Build output
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio
 .vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider / JetBrains
+.idea/
+*.sln.iml
+
+# Local settings and secrets
+appsettings.Local.json
+appsettings.*.Local.json
+secrets.json
+
+# Logs and temporary files
+*.log
+*.tmp
+[Ll]ogs/
+
+# OS files
+.DS_Store
+Thumbs.db
